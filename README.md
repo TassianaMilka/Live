@@ -1,5 +1,5 @@
 # Live
-Resume about live ...
+about live ...
 
 em breve
 
