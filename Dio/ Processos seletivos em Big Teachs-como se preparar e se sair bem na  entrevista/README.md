@@ -29,5 +29,8 @@ do ano 2024.
 5.Dificuldades pode ser vencida e não desistir da conquista em tecnologia.
 
 
+# Minha opinião sobre o contexto
+
+
 
 
