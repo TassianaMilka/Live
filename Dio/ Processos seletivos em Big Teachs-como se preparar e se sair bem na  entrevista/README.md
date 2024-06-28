@@ -31,6 +31,6 @@ do ano 2024.
 
 # Minha opinião sobre o contexto
 
-
+<p>Foi  uma descoberta de conhecer um pouco mais a rotina de trablahar dentro da Microsoft em Cibersegurança  e o funcionamento da empresa por outro lado abordou vários contexto conectando entre eles uma forma de está presente e os recutador(ra) possa encontrar a dedicação pelas redes sociais profissionais e durante o processo da entrevista.Gostei da sequência e analise em mim algumas melhorias de forma na sequência do meu estudo ao profissionalismo.</p>
 
 
