@@ -22,7 +22,7 @@ Qual foi o dia ou dias?
 # Os principais pontos
 
 
-1.Uma conversa com profissionais  que trabalham para o exterior sendo todos brasileiros(ras);
+1.Uma conversa com profissionais  que trabalham para o exterior sendo todos brasileiros(as);
 
 2.Descrevendo um pouco de suas rotinas;
 
