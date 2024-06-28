@@ -32,7 +32,7 @@ Qual foi o dia ou dias
 
 # Minha opinião sobre o contexto 
 
-Para mim foi uma experiência  de novas formas de aprendizagem por mais que eu já compreendia alguns requisitos,mas obtive uma experiência de inovar o meu currículo e fazer uma reflexão de trabalhar no exterior morando no Brasil e morar fora juntamento com serviço.Pelo meu análise contém diferença sobre a quantidade de investimento da  conversão do dinheiro é mais lucrativa na Ámerica do Sul.Como fosse uma pobrabilidade  de 1% morando no país que não é seu de origem e 4% morando em seu território de nascimento.Outro fator que não é negativo e que grande parte do considerar é sobre fuso horário nesse caso cada deve analisar sua forma de estatística financeira e pensamento.
+Para mim foi uma experiência  de novas formas de aprendizagem por mais que eu já compreendia alguns requisitos,mas obtive uma experiência de inovar o meu currículo e fazer uma reflexão de trabalhar no exterior morando no Brasil e morar fora juntamento com serviço.Pelo meu análise contém diferença sobre a quantidade de investimento da  conversão do dinheiro é mais lucrativa na América do Sul.Como fosse uma pobrabilidade  de 1% morando no país que não é seu de origem e 4% morando em seu território de nascimento.Outro fator que não é negativo e que grande parte do considerar é sobre fuso horário nesse caso cada deve analisar sua forma de estatística financeira e pensamento.
 
 
 # Link da Live in Português
