@@ -15,7 +15,8 @@ This repository is for writing the summary of the live in   listin.
 
 # Espanõl
 
-Este repositorio es para escribir el resumen las  live  en ....
+ Este repositorio es para escribir el resumen las  live  en ....
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 
