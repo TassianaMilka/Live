@@ -23,9 +23,9 @@ Qual foi o dia ou dias
 
 3.A forma que  conseguiram a experiência para o trabalho no exterior;
 
-4.Analisar alguns requisitos duante o processo contratação;
+4.Analisaram alguns requisitos duante o processo contratação;
 
-5.Quando começar a trabalhar;
+5.Quando começaram a trabalhar;
 
 6.Dicas de um currículo ideal para que as empresas contenha interesse;
 
