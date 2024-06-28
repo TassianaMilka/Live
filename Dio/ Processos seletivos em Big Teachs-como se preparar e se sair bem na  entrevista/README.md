@@ -26,7 +26,7 @@ do ano 2024.
 
 4.Experiência de trablaho de um empresa do exterior dentro do Brasil;
 
-5.Dificuldade pode ser vencida e não desistir da conquista em tecnologia.
+5.Dificuldades pode ser vencida e não desistir da conquista em tecnologia.
 
 
 
