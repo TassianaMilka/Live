@@ -15,8 +15,7 @@ This repository is for writing the summary of the live in   listin.
 
 # Espanõl
 
-Este repositorio es para escribir el resumen los certificados de cursos publicados en linkedin.
-
+Este repositorio es para escribir el resumen las  live  en ....
 --------------------------------------------------------------------------------------------------------------------------------
 
 
