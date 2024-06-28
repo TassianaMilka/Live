@@ -38,9 +38,14 @@ Qual foi o dia ou dias
 # Link da Live in Português
 
 
+1
 
+https://www.youtube.com/watch?v=NOshnB4bRiE
 
+2
 
+https://www.youtube.com/watch?v=Xn0P0wFcA5w
 
+# Linkedin
 
 https://www.linkedin.com/in/tassiana-milka/details/certifications/
