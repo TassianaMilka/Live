@@ -31,4 +31,3 @@ do ano 2024.
 
 
 
-https://www.linkedin.com/in/tassiana-milka/details/certifications/
