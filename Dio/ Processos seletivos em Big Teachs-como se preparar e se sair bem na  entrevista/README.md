@@ -34,6 +34,7 @@ do ano 2024.
 <p>Foi  uma descoberta de conhecer um pouco mais a rotina de trabalhar dentro da Microsoft em Cibersegurança  e o funcionamento da empresa por outro lado abordou vários contextos conectando entre eles uma forma de está presente e o recutador(a) que possa encontrar a dedicação pelas redes sociais profissionais e durante o processo da entrevista.Gostei da sequência e analise em mim alguns itens necessário de melhorias no meu estudo ao profissionalismo.</p>
 
 
+# Link da Live in Português
 
 https://www.youtube.com/watch?v=Ofn2l5NhA7E
 
