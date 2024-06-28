@@ -1,14 +1,17 @@
 
+
+# Português
+
 # Perguntas
 
 
-O nome do canal que participou
+O nome do canal que participou?
 
 
 Participei pelo Dio.
 
 
-Qual foi o dia ou dias
+Qual foi o dia ou dias?
 
 
 25 e 26 de Junho do ano 2024.
@@ -33,6 +36,17 @@ Qual foi o dia ou dias
 # Minha opinião sobre o contexto 
 
 <p>Para mim foi uma experiência  de novas formas de aprendizagem por mais que eu já compreendia alguns requisitos,mas obtive uma experiência de inovar o meu currículo e fazer uma reflexão de trabalhar no exterior morando no Brasil e morar fora juntamento com serviço.Pelo meu análise contém diferença sobre a quantidade de investimento da  conversão do dinheiro é mais lucrativa na América do Sul como fosse uma pobrabilidade  de 1% morando no país que não é seu de origem e 4% morando em seu território de nascimento.Outro fato que não é negativo,porém uma grande parte considera é sobre fuso horário nesse caso cada um deve analisar sua forma de estatística financeira e pensamento.</p>
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Link da Live in Português
