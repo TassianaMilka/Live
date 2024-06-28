@@ -32,7 +32,7 @@ do ano 2024.
 
 # Minha opinião sobre o contexto
 
-<p>Foi  uma descoberta de conhecer um pouco mais a rotina de trabalhar dentro da Microsoft em Cibersegurança  e o funcionamento da empresa por outro lado abordou vários contextos conectando entre eles uma forma de está presente e o recutador(a) que possa encontrar a dedicação pelas redes sociais profissionais e durante o processo da entrevista.Gostei da sequência e analise em mim alguns itens necessário de melhorias no meu estudo ao profissionalismo.</p>
+<p>Foi  uma descoberta de conhecer um pouco mais a rotina de trabalhar dentro da Microsoft em Cibersegurança  e o funcionamento da empresa por outro lado abordou vários contextos conectando entre eles uma forma de está presente e o recrutador(a) que possa encontrar a dedicação pelas redes sociais profissionais e durante o processo da entrevista.Gostei da sequência e analise em mim alguns itens necessário de melhorias no meu estudo ao profissionalismo.</p>
 
 
 # Link da Live in Português
