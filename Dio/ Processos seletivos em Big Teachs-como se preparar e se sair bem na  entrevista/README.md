@@ -13,8 +13,7 @@ Participei pelo Dio.
 
 Qual foi o dia ou dias?
 
-
-do ano 2024.
+Em 4 de Junho do ano 2024.
 
 
 # Os principais pontos
