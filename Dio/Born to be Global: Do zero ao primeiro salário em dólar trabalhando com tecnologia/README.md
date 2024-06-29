@@ -42,6 +42,8 @@ Qual foi o dia ou dias?
 
 # English 
 
+#  Born to be Global:de cero a primer dólar trabajando en tecnología
+ 
 
 
 
