@@ -76,6 +76,8 @@ June 25 and 26 the 2024.
 
 # Espanõl 
 
+# Born to be Global: de cero a primer dollar trabajando en tecnología
+
 
 
 
