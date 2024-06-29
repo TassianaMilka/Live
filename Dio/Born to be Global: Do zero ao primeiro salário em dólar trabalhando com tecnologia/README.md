@@ -107,6 +107,9 @@ Consejos para un currículum ideal para que las empresas contengan interés;
 
 
 
+<p>Para mi fue una experiencia de nuevas formas de aprender para más de lo que entendía algunos requisitos, pero obtuve una experiencia de innovación en mi currículo y hacer una reflexión de trabajar en el exterior y vivir en Brasil y vivir para otros con servicio. </p>
+
+
 # Link da live in português
 
 
