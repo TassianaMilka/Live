@@ -57,17 +57,17 @@ June 25 and 26 the 2024.
 # The main points
 
 
-1. A conversation with professionals who work abroad all of whom are Brazilians;
+1.A conversation with professionals who work abroad all of whom are Brazilians;
 
-2. Describing a little of your routines;
+2.Describing a little of your routines;
 
-3. The way they got the experience to work abroad;
+3.The way they got the experience to work abroad;
 
-4. Analyzed some requirements during the hiring process;
+4.Analyzed some requirements during the hiring process;
 
-5. When they started working;
+5.When they started working;
 
-6. Tips for an ideal resume for companies to contain interest;
+6.Tips for an ideal resume for companies to contain interest;
 
 #   My opinion about contexts
 
