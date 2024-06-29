@@ -43,7 +43,7 @@ I participated for Dio.
 
 What was the day or days?
 
-June 4, 2024.
+June 4 the 2024.
 
 
 # The main points
