@@ -57,7 +57,7 @@ June 4 the 2024.
 
 5.Difficulties can be overcome and not give up on achievement in technology.
 
-
+# My opinion about contexts
 
 <p>It was a discovery to learn a little more about the routine of working within Microsoft in Cybersecurity and the company operation on the other hand it covered several contexts connecting between them a way of being present and the recruiter who can find dedication through social networks professionals and during the interview process. I enjoyed the sequence and analyzed some items needed for improvement in my study of professionalism.</p>
 
