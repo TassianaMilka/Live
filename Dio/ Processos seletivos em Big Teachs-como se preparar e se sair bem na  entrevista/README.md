@@ -34,6 +34,21 @@ do ano 2024.
 
 <p>Foi  uma descoberta de conhecer um pouco mais a rotina de trabalhar dentro da Microsoft em Cibersegurança  e o funcionamento da empresa por outro lado abordou vários contextos conectando entre eles uma forma de está presente e o recrutador(a) que possa encontrar a dedicação pelas redes sociais profissionais e durante o processo da entrevista.Gostei da sequência e analisei em mim alguns itens necessário de melhorias no meu estudo ao profissionalismo.</p>
 
+# English
+
+
+The name of the channel you participated in?
+
+I participated for Dio.
+
+What was the day or days?
+
+June 4, 2024.
+
+
+# The main points
+
+
 
 # Link da Live in Português
 
