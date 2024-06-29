@@ -20,7 +20,7 @@ Em 4 de Junho do ano 2024.
 
 1.Apresntação sobre a sua trajetória;
 
-     2.Dicas de como conseguir destaque no mercado;
+2.Dicas de como conseguir destaque no mercado;
 
  3.Como sair bem em uma entrevista;
 
