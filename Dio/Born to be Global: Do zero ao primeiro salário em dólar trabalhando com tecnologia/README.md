@@ -4,9 +4,6 @@
 
 # Born to be Global: Do zero ao primeiro salário em dólar trabalhando com tecnologia
 
-# Perguntas
-
-
 O nome do canal que participou?
 
 
@@ -39,6 +36,7 @@ Qual foi o dia ou dias?
 
 <p>Para mim foi uma experiência  de novas formas de aprendizagem por mais que eu já compreendia alguns requisitos,mas obtive uma experiência de inovar o meu currículo e fazer uma reflexão de trabalhar no exterior morando no Brasil e morar fora juntamento com serviço.Pelo meu análise contém diferença sobre a quantidade de investimento da  conversão do dinheiro é mais lucrativa na América do Sul como fosse uma pobrabilidade  de 1% morando no país que não é seu de origem e 4% morando em seu território de nascimento.Outro fato que não é negativo,porém uma grande parte considera é sobre fuso horário nesse caso cada um deve analisar sua forma de estatística financeira e pensamento.</p>
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # English 
 
@@ -73,6 +71,7 @@ June 25 and 26 the 2024.
 
 <p>For me it was an experience of new ways of learning more than I understood some requirements, but I got an experience of innovation or my curriculum and make a reflection of working abroad and living in Brazil and living for others with service.My analysis it contains disagreement about the amount of investment of the conversion of money is more profitable in South America as it is a poor 1% living in the country that is not your home and 4% dwelling in your territory.Another fact that is not negative, but a large part considers is about time zone, in this case each one must analyze their form of financial statistics and thinking.</p>
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl 
 
@@ -109,6 +108,7 @@ El 25 y 26 de junio del año 2024.
 <p>Para mi fue una experiencia de nuevas formas de aprender para más de lo que entendía algunos requisitos, pero obtuve una experiencia de innovación en mi currículo y hacer una reflexión de trabajar en el exterior y vivir en Brasil y vivir para otros con servicio.Mi análisis contiene desacuerdo sobre el monto de inversión de la conversión de dinero que es más rentable en América del Sur, ya que es un 1% pobre que vive en el país que no es su hogar y un 4% que vive en su territorio. Otro dato que no es negativo, pero que una gran parte considera es sobre el huso horario, en este caso cada uno debe analizar su forma de estadísticas financieras y de pensar.</p>
 
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 
 # Link da live in português
