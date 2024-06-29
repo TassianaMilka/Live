@@ -47,6 +47,18 @@ June 4 the 2024.
 
 # The main points
 
+1. Presentation about your trajectory;
+
+2.Tips on how to stand out in the market;
+
+3. How to do well in an interview;
+
+4. Experience working for a foreign company within Brazil;
+
+5. Difficulties can be overcome and not give up on achievement in technology.
+
+
+
 
 
 # Link da Live in Português
