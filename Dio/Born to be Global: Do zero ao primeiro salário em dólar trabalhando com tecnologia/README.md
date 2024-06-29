@@ -122,16 +122,21 @@ https://www.youtube.com/watch?v=NOshnB4bRiE
 
 https://www.youtube.com/watch?v=Xn0P0wFcA5w
 
-# Linkedin
 
-https://www.linkedin.com/in/tassiana-milka/details/certifications/
+
+https://github.com/TassianaMilka/Live/assets/114196099/a257ce13-cae4-441b-94c5-22379fe20d2d
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 
+# Linkedin
+
+https://www.linkedin.com/in/tassiana-milka/details/certifications/
 
 
 
-https://github.com/TassianaMilka/Live/assets/114196099/a257ce13-cae4-441b-94c5-22379fe20d2d
+
+
+
 
 
