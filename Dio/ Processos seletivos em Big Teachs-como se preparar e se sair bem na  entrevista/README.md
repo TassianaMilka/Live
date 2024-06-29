@@ -49,7 +49,7 @@ June 4 the 2024.
 
 1.Presentation about your trajectory;
 
-2.Tips on how to stand out in the market;
+ 2.Tips on how to stand out in the market;
 
 3.How to do well in an interview;
 
