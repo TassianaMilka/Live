@@ -107,7 +107,7 @@ Consejos para un currículum ideal para que las empresas contengan interés;
 
 
 
-<p>Para mi fue una experiencia de nuevas formas de aprender para más de lo que entendía algunos requisitos, pero obtuve una experiencia de innovación en mi currículo y hacer una reflexión de trabajar en el exterior y vivir en Brasil y vivir para otros con servicio. </p>
+<p>Para mi fue una experiencia de nuevas formas de aprender para más de lo que entendía algunos requisitos, pero obtuve una experiencia de innovación en mi currículo y hacer una reflexión de trabajar en el exterior y vivir en Brasil y vivir para otros con servicio.Mi análisis contiene desacuerdo sobre el monto de inversión de la conversión de dinero que es más rentable en América del Sur, ya que es un 1% pobre que vive en el país que no es su hogar y un 4% que vive en su territorio. Otro dato que no es negativo, pero que una gran parte considera es sobre el huso horario, en este caso cada uno debe analizar su forma de estadísticas financieras y de pensar.</p>
 
 
 # Link da live in português
