@@ -43,9 +43,17 @@ Qual foi o dia ou dias?
 # English 
 
 #  Born to be Global:de cero a primer dólar trabajando en tecnología
+
  
+The name of the channel you participated in?
 
+I participated for Dio.
 
+What was the day or days?
+
+June 25 and 26 the 2024.
+
+#   
 
 # Espanõl 
 
