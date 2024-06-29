@@ -61,6 +61,37 @@ June 4 the 2024.
 
 <p>It was a discovery to learn a little more about the routine of working within Microsoft in Cybersecurity and the company operation on the other hand it covered several contexts connecting between them a way of being present and the recruiter who can find dedication through social networks professionals and during the interview process. I enjoyed the sequence and analyzed some items needed for improvement in my study of professionalism.</p>
 
+
+# Espanõl
+
+¿El nombre del canal en el que participaste?
+
+
+Participé por Dio.
+
+
+¿Cuál fue el día o los días?
+
+El 4 de junio del año 2024.
+
+
+#  Los puntos principales
+
+1. Presentación sobre su trayectoria;
+
+2.Consejos sobre cómo destacarse en el mercado;
+
+3. Cómo salir bien en una entrevista;
+
+4. Experiencia trabajando para una empresa extranjera dentro de Brasil;
+
+5. Las dificultades se pueden superar y no renunciar a los logros en tecnología.
+
+#  Mi opinión sobre los contextos
+
+
+<p>Fue un descubrimiento conocer un poco más sobre la rutina de trabajo dentro de Microsoft en Ciberseguridad y el funcionamiento de la empresa por otro lado abarcó varios contextos conectando entre ellos una forma de estar presente y el reclutador que puede encontrar dedicación a través de las redes sociales profesionales y durante el proceso de entrevista. Disfruté la secuencia y analicé algunos elementos necesarios para mejorar en mi estudio del profesionalismo.</p>
+
 # Link da Live in Português
 
 https://www.youtube.com/watch?v=Ofn2l5NhA7E
