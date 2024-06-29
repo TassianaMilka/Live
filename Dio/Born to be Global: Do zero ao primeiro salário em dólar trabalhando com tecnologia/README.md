@@ -54,7 +54,7 @@ What was the day or days?
 June 25 and 26 the 2024.
 
 #   
-
+<p>For me it was an experience of new ways of learning more than I understood some requirements, but I got an experience of innovation or my curriculum and make a reflection of working abroad and living in Brazil and living for others with service. From my analysis it contains disagreement about the amount of investment of the conversion of money is more profitable in South America as it is a poor 1% living in the country that is not your home and 4% dwelling in your territory               </p>
 # Espanõl 
 
 
