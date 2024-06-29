@@ -9,13 +9,13 @@ Esse repostório é destinado para descrever em forma de resumo todas live em qu
 
 # English
 
-This repository is for writing the summary of the live in   listin.
+This repository is for writing the summary of the live in listening.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
- Este repositorio es para escribir el resumen las  live  en ....
+ Este repositorio es para escribir el resumen las  live  en  qué escuchando.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
