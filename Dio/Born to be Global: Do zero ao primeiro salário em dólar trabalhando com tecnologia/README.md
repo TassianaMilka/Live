@@ -89,9 +89,19 @@ Participé por Dio.
 El 25 y 26 de junio del año 2024.
 
 
+# Los  
 
+Una conversación con profesionales que trabajan en  exterior todos brasileños;
 
+Describa un poco de sus rutinas;
 
+Forma en que adquirieron la experiencia de trabajar en extranjero;
+
+Analicé algunos requisitos durante el proceso de contratación;
+
+Cuando empezaron a trabajar;
+
+Consejos para un currículum ideal para que las empresas contengan interés;
 
 
 
