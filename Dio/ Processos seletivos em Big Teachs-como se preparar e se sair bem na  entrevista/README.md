@@ -79,7 +79,7 @@ El 4 de junio del año 2024.
 
 1. Presentación sobre su trayectoria;
 
- 2.Cómo destacarse en el mercado;
+    2.Cómo destacarse en el mercado;
 
 3. Cómo salir bien en una entrevista;
 
