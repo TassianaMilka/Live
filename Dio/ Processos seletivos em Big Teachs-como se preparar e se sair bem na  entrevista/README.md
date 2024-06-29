@@ -31,6 +31,9 @@ Em 4 de Junho do ano 2024.
 
 <p>Foi  uma descoberta de conhecer um pouco mais a rotina de trabalhar dentro da Microsoft em Cibersegurança  e o funcionamento da empresa por outro lado abordou vários contextos conectando entre eles uma forma de está presente e o recrutador(a) que possa encontrar a dedicação pelas redes sociais profissionais e durante o processo da entrevista.Gostei da sequência e analisei em mim alguns itens necessário de melhorias no meu estudo ao profissionalismo.</p>
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+
 # English
 
 
@@ -59,6 +62,7 @@ June 4 the 2024.
 
 <p>It was a discovery to learn a little more about the routine of working within Microsoft in Cybersecurity and the company operation on the other hand it covered several contexts connecting between them a way of being present and the recruiter who can find dedication through social networks professionals and during the interview process. I enjoyed the sequence and analyzed some items needed for improvement in my study of professionalism.</p>
 
+--------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
 
@@ -91,6 +95,8 @@ El 4 de junio del año 2024.
 
 
 <p>Fue un descubrimiento conocer un poco más sobre la rutina de trabajo dentro de Microsoft en Ciberseguridad y el funcionamiento de la empresa por otro lado abarcó varios contextos conectando entre ellos una forma de estar presente y el reclutador que puede encontrar dedicación a través de las redes sociales profesionales y durante el proceso de entrevista. Disfruté la secuencia y analicé algunos elementos necesarios para mejorar en mi estudio del profesionalismo.</p>
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 # Link da Live in Português
 
