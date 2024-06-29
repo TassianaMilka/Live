@@ -78,7 +78,6 @@ June 25 and 26 the 2024.
 
 # Born to be Global: de cero a primer dollar trabajando en tecnología
 
-#  
 
 ¿El nombre del canal en el que participaste?
 
@@ -89,7 +88,7 @@ Participé por Dio.
 El 25 y 26 de junio del año 2024.
 
 
-# Los  
+# Los puntos principales
 
 1.Una conversación con profesionales que trabajan en  exterior todos brasileños;
 
@@ -104,7 +103,7 @@ El 25 y 26 de junio del año 2024.
 6.Consejos para un currículum ideal para que las empresas contengan interés;
 
 
-#  
+#  Mi opinión sobre los contextos
 
 
 <p>Para mi fue una experiencia de nuevas formas de aprender para más de lo que entendía algunos requisitos, pero obtuve una experiencia de innovación en mi currículo y hacer una reflexión de trabajar en el exterior y vivir en Brasil y vivir para otros con servicio.Mi análisis contiene desacuerdo sobre el monto de inversión de la conversión de dinero que es más rentable en América del Sur, ya que es un 1% pobre que vive en el país que no es su hogar y un 4% que vive en su territorio. Otro dato que no es negativo, pero que una gran parte considera es sobre el huso horario, en este caso cada uno debe analizar su forma de estadísticas financieras y de pensar.</p>
