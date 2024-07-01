@@ -28,5 +28,6 @@ Qual foi o dia ou dias?
 
 
 # Minha opinião sobre o contexto 
-<p>     </p>
+
+<p>Durante o roteiro que  descreviam os profissionais em suas falas traziam o quanto a IA já está estabelecida muito anos  atrás e a sua utilização foi maior atualmente para todos os ambientes profissional dentro da tecnologia e outros conteúdos.     </p>
    
