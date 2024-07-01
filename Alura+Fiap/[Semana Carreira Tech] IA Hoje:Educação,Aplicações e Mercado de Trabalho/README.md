@@ -24,5 +24,9 @@ Qual foi o dia ou dias?
 
 6.IA e humano junto na criação;
 
-7.
+7.IA Generativa.
+
+
+# Minha opinião
+<p>     </p>
    
