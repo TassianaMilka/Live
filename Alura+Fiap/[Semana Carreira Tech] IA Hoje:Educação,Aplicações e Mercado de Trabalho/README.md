@@ -20,9 +20,9 @@ Qual foi o dia ou dias?
 
 4.O cuidado com Fake news  que pode ser descoberto ou pode utilizar a IA;
 
-5.IA e humano junto na criação;
+5.CHATGPT;
 
-6.CHATGPT;
+6.IA e humano junto na criação;
 
 7.
    
