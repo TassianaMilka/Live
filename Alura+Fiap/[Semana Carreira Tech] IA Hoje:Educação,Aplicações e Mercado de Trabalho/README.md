@@ -27,6 +27,6 @@ Qual foi o dia ou dias?
 7.IA Generativa.
 
 
-# Minha opinião
+# Minha opinião sobre o contexto 
 <p>     </p>
    
