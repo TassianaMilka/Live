@@ -14,6 +14,6 @@ Qual foi o dia ou dias?
 
 1.Descreveu o começo da IA;
 
-2. A utilização da IA para o mercado e vida pessoal;
+2.A utilização da IA para o mercado e vida pessoal;
 
 3.
