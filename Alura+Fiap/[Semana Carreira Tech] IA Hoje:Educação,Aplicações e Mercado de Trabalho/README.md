@@ -20,7 +20,7 @@ Qual foi o dia ou dias?
 
 4.O cuidado com Fake news  que pode ser descoberto ou pode utilizar a IA;
 
-5.CHATGPT de forma para utilizar da forma criativa e eficaz;
+5.CHATGPT de forma para utilizar na  criatividade;
 
 6.IA e humano junto na criação;
 
