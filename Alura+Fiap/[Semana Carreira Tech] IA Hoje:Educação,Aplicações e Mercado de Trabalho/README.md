@@ -98,7 +98,7 @@ El 01 de Julio del año 2024.
 
 #  Mi opinión sobre los contextos
 
-<P>Durante el guión que describían los profesionales en sus intervenciones abordaron lo mucho que la IA se ha establecido desde hace mucho tiempo y su uso era mayor hoy en día para todos los entornos profesionales dentro de la tecnología y otros contenidos. Con el fin de automatizar más rápido y la agilidad para lograr los proyectos. </P>
+<P>Durante el guión que describían los profesionales en sus intervenciones abordaron lo mucho que la IA se ha establecido desde hace mucho tiempo y su uso era mayor hoy en día para todos los entornos profesionales dentro de la tecnología y otros contenidos. Con el fin de automatizar más rápido y la agilidad para lograr los proyectos.Para mí, voy a aprender más a mi repositorio de conocimiento y creo que la IA tiene sus puntos negativos y positivos  cada individuo usar la ética para definir mejor voy a usar en ciberseguridad, que puedo contener la necesidad de descifrar una imagen en el descubrimiento de la resolución del caso criminal que se encuentra dentro de un sistema operativo, con esto, de manera humana, no puedo entender el hecho de que la foto sea compleja</P>
 
 
 
