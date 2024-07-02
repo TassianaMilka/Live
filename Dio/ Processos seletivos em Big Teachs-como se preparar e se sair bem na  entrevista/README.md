@@ -98,7 +98,7 @@ El 4 de junio del año 2024.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
-# Link da Live in Português
+# Link da Live in portuguese
 
 https://www.youtube.com/watch?v=Ofn2l5NhA7E
 
