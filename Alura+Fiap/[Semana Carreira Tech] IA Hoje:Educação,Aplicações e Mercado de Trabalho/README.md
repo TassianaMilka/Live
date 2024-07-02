@@ -14,19 +14,19 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
-1.Descreveu o começo da IA;
+ 1. Descreveu o começo da IA;
 
-2.A utilização da IA para o mercado e vida pessoal;
+2. A utilização da IA para o mercado e vida pessoal;
 
-3.Rede neural  na finalidade com os dados;
+3. Rede neural  na finalidade com os dados;
 
-4.O cuidado com Fake news  que pode ser descoberto ou pode utilizar a IA;
+4. O cuidado com Fake news  que pode ser descoberto ou pode utilizar a IA;
 
-5.CHATGPT de forma para utilizar na  criatividade;
+5. CHATGPT de forma para utilizar na  criatividade;
 
-6.IA e humano junto na criação;
+6. IA e humano junto na criação;
 
-7.IA Generativa.
+7. IA Generativa.
 
 
 # Minha opinião sobre o contexto 
