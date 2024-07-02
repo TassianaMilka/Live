@@ -1,6 +1,8 @@
 
 # Português 
 
+# [Semana Carreira Tech] IA Hoje:Educação,Aplicações e Mercado de Trabalho
+
 O nome do canal que participou?
 
 Participei pela Alura+Fiap.
