@@ -41,7 +41,7 @@ I participated for Alura+Fiap.
 
 What was the day or days?
 
-01 the June in 2024.
+01 the July in 2024.
 
 
 # The main points
