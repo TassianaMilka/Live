@@ -7,7 +7,7 @@ Participei pela Alura+Fiap.
 
 Qual foi o dia ou dias?
 
-01 de Julho.
+01 de Julho em 2024.
 
 
 # Os principais pontos
@@ -33,7 +33,13 @@ Qual foi o dia ou dias?
 
    # English 
 
+The name of the channel you participated in?
 
+I participated for Alura+Fiap.
+
+What was the day or days?
+
+01 the June in June.
 
    # Espanõl 
 
