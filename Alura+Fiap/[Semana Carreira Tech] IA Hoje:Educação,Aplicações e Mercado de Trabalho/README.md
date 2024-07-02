@@ -103,7 +103,7 @@ El 01 de Julio del año 2024.
 
 
 
-# linlk  
+# Link da live in portuguese
 
 
 https://www.youtube.com/watch?v=IVbUAxl1HaM
