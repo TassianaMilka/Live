@@ -81,4 +81,23 @@ El 01 de Julio del año 2024.
 
 # Los puntos principales
 
-   
+ 1. Describió la creación de IA;
+
+2.El uso de la IA para el mercado y la vida personal;
+
+3. Red neuronal al final de los datos;
+
+4. Cuidado con las noticias falsas que se pueden descubrir o que usar IA;
+
+5. CHATGPT para usar en  creación;
+
+6.IA y humano juntos en creación;
+
+7.IA generativa.
+
+
+#   FDD
+
+
+
+
