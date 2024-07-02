@@ -83,7 +83,7 @@ El 01 de Julio del año 2024.
 
  1. Describió la creación de IA;
 
-2.El uso de la IA para el mercado y la vida personal;
+2.  El uso de la IA para el mercado y la vida personal;
 
 3. Red neuronal al final de los datos;
 
@@ -91,9 +91,9 @@ El 01 de Julio del año 2024.
 
 5. CHATGPT para usar en  creación;
 
-6.IA y humano juntos en creación;
+6. IA y humano juntos en creación;
 
-7.IA generativa.
+7. IA generativa.
 
 
 #   FDD
