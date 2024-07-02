@@ -96,7 +96,10 @@ El 01 de Julio del año 2024.
 7. IA generativa.
 
 
-#   FDD
+#  Mi opinión sobre los contextos
+
+
+
 
 
 
