@@ -62,6 +62,7 @@ What was the day or days?
 
 7.Generative AI.
 
+# My opinion about contexts
 
 <p>During the script that they described the professionals in their speaking addressed how much AI has been established for a long time before and its use was greater today for all professional environments within technology and other content. In order to automate faster and agility to achieve projects. For me learning  more to my repository of knowledge and I believe that AI contains its negative and positive points end up with each individual use ethics to define better  in cybersecurity that I can contain the need to decipher an image in the discovery of the resolution of the criminal case found within an operating system with this in a human way I cannot understand the fact the photo is complex where I need the AI so it will analyze the main requirements and I can create a final report of what happened, But there is a case that harms some individual in video creation with his image and voice is a fact that it is important for everyone on the other hand it contains disadvantage of those who are using it, that is, it is humans who must be careful. Even in the face of everything, I will continue to use Artificial Intelligence a lot in my professional and personal life.</p>
 
