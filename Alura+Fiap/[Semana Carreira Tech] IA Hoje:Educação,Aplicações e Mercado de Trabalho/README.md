@@ -52,7 +52,7 @@ What was the day or days?
 
 2.The use of AI for the market and personal life;
 
-3. Neural network at the end of the data;
+3.Neural network at the end of the data;
 
 4.Beware of Fake news that can be discovered or can use AI;
 
