@@ -68,6 +68,17 @@ What was the day or days?
 
  # Espanõl 
 
+ #  [Semana de la Carrera Tech ] La IA en la actualidad: educación, aplicaciones y mercado laboral IA Hoje:Educação,Aplicações e Mercado de Trabalho
 
+¿El nombre del canal en el que participaste?
+
+Participé por Alura+Fiap.
+
+¿Cuál fue el día o los días?
+
+El 01 de Julio del año 2024.
+
+
+# Los puntos principales
 
    
