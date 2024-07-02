@@ -98,7 +98,7 @@ El 01 de Julio del año 2024.
 
 #  Mi opinión sobre los contextos
 
-
+<P>Durante el guión que describían los profesionales en sus intervenciones abordaron lo mucho que la IA se ha establecido desde hace mucho tiempo y su uso era mayor hoy en día para todos los entornos profesionales dentro de la tecnología y otros contenidos. Con el fin de automatizar más rápido y la agilidad para lograr los proyectos. </P>
 
 
 
