@@ -48,19 +48,19 @@ What was the day or days?
 
 # The main points
 
-1. Described the create of AI;
+1.Described the create of AI;
 
 2.The use of AI for the market and personal life;
 
 3. Neural network at the end of the data;
 
-4. Beware of Fake news that can be discovered or can use AI;
+4.Beware of Fake news that can be discovered or can use AI;
 
 5.CHATGPT in order to use in creation;
 
 6.AI and human together in creation;
 
-7. Generative AI.
+7.Generative AI.
 
 
 
