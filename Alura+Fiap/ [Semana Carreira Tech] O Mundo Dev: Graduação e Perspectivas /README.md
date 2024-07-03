@@ -28,7 +28,7 @@ Qual foi o dia ou dias?
 # Minha opinião sobre o contexto
 
 <p>Em suas falas argumentativas os profissionais descreveram o quanto obteve uma inovação na tecnologia  e que atualmente podem trabalhar em vários campos como Dev na interligação de linguagens de programação que IA facilita o processo de trabalho que antes o mercado era mais focado em menos automatização e até utilizaram exemplos como jogos que fazem grande sucesso  aonde os especialista pensaram para abranger a todos os públicos de suas máquinas.Nessa analógia penso em questão  a um analista de cibersegurança,engenharia  de software e cientista de dado  não tiverem uma ferramenta que possa auxiliar em seus  desenvolvimento como analisar o que precisa mudar,adicionar ou excluir isso tudo  é incrível  para mim para quem utilizava 
-tecnologia desde alguns anos antes de 2024 por volta de 2009  vai compreender.Nessa sequência  de jogo vamos continuar estudando e tranformado vidas e talentos como é lindo explicar.Afinal todos sabem dos desafios,mas amar mudar vidas isso é gratidão.</p>
+tecnologia desde alguns anos antes de 2024 por volta de 2009  vai compreender.Nessa sequência  de jogo vamos continuar estudando,tranformado vidas,novos talentos como é lindo explicar e todos sabem dos desafios,mas é uma gratidão em  riqueza pelo esforço.</p>
 
 # English
 
