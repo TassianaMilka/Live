@@ -19,7 +19,7 @@ Qual foi o dia ou dias?
 
 3.Mudanças;
 
-4.Historicamente de algumas simples criação obteve o funcionamento de empresas como Meta e Amazon.
+4.Historicamente de algumas simples criação obteve o funcionamento de empresas como Meta e Amazon;
 
 5.Tecnologia contém espaço para todos. 
 
@@ -47,7 +47,7 @@ What was the day or days?
 
 3.Changes;
 
-4.Historically from a few simple creations, it has obtained the operation of companies such as Meta and Amazon.
+4.Historically from a few simple creations, it has obtained the operation of companies such as Meta and Amazon;
 
 5.Technology has room for everyone.
 
