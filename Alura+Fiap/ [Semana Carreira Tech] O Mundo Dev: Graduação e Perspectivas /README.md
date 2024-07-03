@@ -66,10 +66,11 @@ Participé por Alura+Fiap.
 
 El 02 de Julio del año 2024.
 
-Los puntos principales
+# Los puntos principales
 
 
-Mi opinión sobre los contextos
+
+# Mi opinión sobre los contextos
 
 
 Link da live in portuguese
