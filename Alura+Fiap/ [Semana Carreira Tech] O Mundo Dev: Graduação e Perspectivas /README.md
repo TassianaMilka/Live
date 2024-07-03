@@ -41,6 +41,15 @@ What was the day or days?
 
 # The main points
 
+1.The digital future;
+
+2. Thinking about the deeper context;
+
+3. Changes;
+
+4. Historically from a few simple creations, it has obtained the operation of companies such as Meta and Amazon.
+
+5. Technology has room for everyone.
 
 # My opinion about contexts
 
