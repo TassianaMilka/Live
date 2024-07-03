@@ -15,7 +15,7 @@ Qual foi o dia ou dias?
 
 2.  Mudanças;
 
-3.   
+3. Realidade para educação,profissional e pessoal.
 
 # Minha opinião sobre o contexto
 
