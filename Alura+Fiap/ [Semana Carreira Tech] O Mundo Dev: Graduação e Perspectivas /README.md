@@ -68,7 +68,15 @@ El 02 de Julio del año 2024.
 
 # Los puntos principales
 
+1. El futuro digital;
 
+2. Pensar en  contexto más profundo;
+
+3. Cambios;
+
+4. Históricamente a partir de unas simples creaciones obtenido la operación de empresas como Meta y Amazon;
+
+5. La tecnología tiene espacio para todos.
 
 # Mi opinión sobre los contextos
 
