@@ -41,7 +41,7 @@ What was the day or days?
 
 # The main points
 
-1.The digital future;
+1. The digital future;
 
 2. Thinking about the deeper context;
 
