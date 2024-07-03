@@ -17,5 +17,5 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Os profissionais descrevia sobre todos os requisitos           </p>
+<p>Os profissionais descrevia em suas argumentações seus games preferidos e como isso aumentou no  mercado de milhares com diferente       </p>
 
