@@ -1,4 +1,8 @@
+
+
 # Portuguese 
+
+# [Semana Carreira Tech] O Universo dos Games: Profissões e Caminhos Acadêmicos
 
 
 O nome do canal que participou?
