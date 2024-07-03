@@ -27,7 +27,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p><Em suas falas argumentativas os profissionais da tecnologia descreveram o quanto obteve uma inovação na tecnologia  e que atualmente podem trabalhar em vários campos como Dev na interligação  </p>
+<p>Em suas falas argumentativas os profissionais da tecnologia descreveram o quanto obteve uma inovação na tecnologia  e que atualmente podem trabalhar em vários campos como Dev na interligação </p>
 
 # English
 
