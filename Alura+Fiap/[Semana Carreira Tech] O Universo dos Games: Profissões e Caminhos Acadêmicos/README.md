@@ -15,4 +15,7 @@ Qual foi o dia ou dias?
 
 2.  
 
-# 
+# Minha opinião sobre o contexto
+
+
+
