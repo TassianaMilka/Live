@@ -53,6 +53,8 @@ What was the day or days?
 
 # My opinion about contexts
 
+<p>In argumentative the professionals described how much an innovation in technology has been achieved and that they can currently work in various fields such as Dev in the interconnection of programming languages that AI facilitates the work processwhich before the market was more focused on less automation and even used examples such as the game League of Legends which are a great success, where the experts thought to cover all audiences of their machines.</p>
+
 # Espanõl
 
 
