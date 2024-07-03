@@ -13,7 +13,7 @@ Qual foi o dia ou dias?
 
 1. Evolução dos Games;
 
-2.  
+2.  Mudanças 
 
 # Minha opinião sobre o contexto
 
