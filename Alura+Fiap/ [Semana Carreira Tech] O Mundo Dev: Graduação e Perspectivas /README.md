@@ -80,5 +80,6 @@ El 02 de Julio del año 2024.
 
 # Mi opinión sobre los contextos
 
+<p>En argumentativo los profesionales describieron lo mucho que se ha logrado una innovación en tecnología y que actualmente pueden trabajar en diversos campos como Dev en la interconexión de lenguajes de programación que la IA facilita  proceso de trabajo, que antes el mercado estaba más enfocado en menos automatización e incluso utilizaron ejemplos como  juego League of Legends que son un gran éxito donde los expertos pensaron en cubrir todos los públicos de sus máquinas. En esta analogía</p>
 
 Link da live in portuguese
