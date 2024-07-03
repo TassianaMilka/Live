@@ -3,7 +3,6 @@
 # [Semana Carreira Tech] O Mundo Dev: Graduação e Perspectivas
 
 
-
 O nome do canal que participou?
 
 Participei pela Alura+Fiap.
@@ -14,6 +13,15 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
+1.O futuro digital;
+
+2.Pensamento sobre o contexto mais profundo;
+
+3.Mudanças;
+
+4.Historicamente de algumas simples criação obteve o funcionamento de empresas como Meta e Amazon.
+
+5.
 
 
 # Minha opinião sobre o contexto
