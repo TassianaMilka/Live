@@ -19,7 +19,7 @@ Qual foi o dia ou dias?
 
 3.Mudanças;
 
-4.Historicamente de algumas simples criação obteve o funcionamento de empresas como Meta e Amazon;
+4.Historicamente de algumas simples criações obteve o funcionamento de empresas como Meta e Amazon;
 
 5.Tecnologia contém espaço para todos. 
 
