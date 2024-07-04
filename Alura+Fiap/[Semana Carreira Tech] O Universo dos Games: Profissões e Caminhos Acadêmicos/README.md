@@ -54,6 +54,7 @@ What was the day or days?
 
 # Espanõl 
 
+# [Semana de la Carrera Tech ] El mundo de los desarrolladores: graduación y perspectivas
 
 ¿El nombre del canal en el que participaste?
 
