@@ -66,11 +66,11 @@ Participé para Alura+Fiap.
 
 # Los puntos principales
 
-1. Evolución de los juegos;
+1.Evolución de los juegos;
 
-2. Cambios;
+2.Cambios;
 
-3. Realidad para la educación, profesional y personal.
+3.Realidad para la educación, profesional y personal.
 
 # Mi opinión sobre los contextos
 <p>   </p>
