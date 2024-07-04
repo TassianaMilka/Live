@@ -39,3 +39,8 @@ What was the day or days?
 
 # The main points
 
+1.Evolution of Games;
+
+2.Changes;
+
+3.Reality for education, professional and personal.
