@@ -73,5 +73,6 @@ Participé para Alura+Fiap.
 3.Realidad para la educación, profesional y personal.
 
 # Mi opinión sobre los contextos
-<p>   </p>
+
+<p>Los profesionales describieron en sus argumentos juegos favoritos y cómo esto incrementó el mercado de diferentes edades alrededor mundo para conectar a nuevas aperturas de mejoras algo más real, es decir, dentro y de una manera creativa de etapas y divididos en grupos para su desarrollo. A mi me parece genial la innovación del mundo de los juegos diferentes a los más antiguos como Super Mario, King of Fighters Wing, Habbo, Power rangers, Age Of Empires, Fireboy y Watergirl 1 y entre otros.    </p>
 
