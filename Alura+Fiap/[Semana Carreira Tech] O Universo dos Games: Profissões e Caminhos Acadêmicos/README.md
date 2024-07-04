@@ -55,3 +55,17 @@ What was the day or days?
 # Espanõl 
 
 
+¿El nombre del canal en el que participaste?
+
+Participé para Alura+Fiap.
+
+¿Cuál era el día o los días?
+
+03 el julio de 2024.
+
+
+# Los puntos principales
+
+
+
+
