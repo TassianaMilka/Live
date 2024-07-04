@@ -1,6 +1,6 @@
 
 
-# Portuguese 
+# Português
 
 # [Semana Carreira Tech] O Universo dos Games: Profissões e Caminhos Acadêmicos
 
