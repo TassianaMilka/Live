@@ -48,4 +48,4 @@ What was the day or days?
 
 # My opinion about contexts
 
-
+<p>The professionals described in their arguments favorite games and how this increased  the market of different ages around the world to connect to new openings of improvements something more real, that is, within and in a creative way of stages and divided into groups for development. </p>
