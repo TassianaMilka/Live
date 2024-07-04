@@ -48,4 +48,4 @@ What was the day or days?
 
 # My opinion about contexts
 
-<p>The professionals described in their arguments favorite games and how this increased  the market of different ages around the world to connect to new openings of improvements something more real, that is, within and in a creative way of stages and divided into groups for development. </p>
+<p>The professionals described in their arguments favorite games and how this increased  the market of different ages around the world to connect to new openings of improvements something more real, that is, within and in a creative way of stages and divided into groups for development.To me I consider cool the innovation of the world of games different from the older ones like Super Mario, King of Fighters Wing, Habbo, Power rangers, Age Of Empires, Fireboy and Watergirl 1 and among others that I liked the most in the past the classics. Was very passionate about the world of games in the past, but nowadays I am no longer in this case I leave it to those who love, but it is a world of creation and interconnects with everyone.  </p>
