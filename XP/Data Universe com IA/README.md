@@ -80,6 +80,16 @@ What was the day or days?
 
 # Espanõl
 
-# 
+# ¿El nombre del canal en el que participaste?
+
+Participé por XP.
+
+¿Cuál fue el día o los días?
+
+El 04 de Julio del año 2024.
+
+# Los puntos principales
+
+# Mi opinión sobre los contextos
 
 # 
