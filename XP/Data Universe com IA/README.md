@@ -50,6 +50,26 @@ What was the day or days?
 
 # The main points
 
+1.Artificial intelligence;
+
+2.Prompt;
+
+3.Automation flow;
+
+4.AI use training;
+
+5.Ethics;
+
+6.ESG;
+
+7.AI in the Digital Market;
+
+8.Mathematics of statistics and probability;
+
+9.Creativity innovation;
+
+10.Data security, privacy, and protection.
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
