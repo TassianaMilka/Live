@@ -34,7 +34,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Foi  um aprendizagem de compreende mais sobre Inteligência  Artificial com profissionais da área desde da utilização em publicação das redes sociais,gestão de tempo,organização,ético na utilização,importância  para o agronegócio, market digital na facilidade de aumento e reconhecimento,matemática do mais profundo para IA, inovação de possilidade para todos e  acessibilidade, a diferença de privacidade e proteção de Banco de dado algo muito uitlizado. Para mim compreender fatores e fez refletir o quanto podemos aprender sempre mais da forma de construtiva e faz perceber  a utilização para cibersegurança é muito  útil,mas não pode querer que ela faça uma resolução de caso criminar por outro lado usar de forma como base do trabalho.</p>
+<p>Foi  um aprendizagem de compreender mais sobre Inteligência  Artificial com profissionais da área desde da utilização em publicação das redes sociais,gestão de tempo,organização,ético na utilização,importância  para o agronegócio, market digital na facilidade de aumento e reconhecimento,matemática do mais profundo para IA, inovação de possilidade para todos e  acessibilidade, a diferença de privacidade e proteção de Banco de dado algo muito uitlizado. Para mim compreender fatores e fez refletir o quanto podemos aprender sempre mais da forma de construtiva e faz perceber  a utilização para cibersegurança é muito  útil,mas não pode querer que ela faça uma resolução de caso criminar por outro lado usar de forma como base do trabalho.</p>
 
 
 #  English 
