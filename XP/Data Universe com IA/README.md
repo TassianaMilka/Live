@@ -68,7 +68,7 @@ What was the day or days?
 
 9.Creativity innovation;
 
-10.Data security, privacy, and protection.
+10.Data security, privacy and protection.
 
 --------------------------------------------------------------------------------------------------------------------------------
 
