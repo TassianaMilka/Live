@@ -12,3 +12,12 @@ Qual foi o dia ou dias?
 
 
 # Minha opinião sobre o contexto
+
+
+
+#  English 
+
+
+
+
+# Espanõl
