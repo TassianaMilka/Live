@@ -74,7 +74,7 @@ What was the day or days?
 # My opinion about contexts
 
 
-
+<p>It was a learning experience to understand more about Artificial Intelligence with professionals in the area from the use in social media publishing, time management, organization, ethics in use, importance for agribusiness, digital market in the ease of increase and recognition, mathematics of the deepest for AI, innovation of possibility for all and accessibility, privacy difference and database protection something very used.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
