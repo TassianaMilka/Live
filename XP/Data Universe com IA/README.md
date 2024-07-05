@@ -42,11 +42,11 @@ Qual foi o dia ou dias?
 
 The name of the channel you participated in?
 
-I participated for Alura+Fiap.
+I participated for XP;
 
 What was the day or days?
 
-01 the July in 2024.
+04 the July in 2024.
 
 # The main points
 
