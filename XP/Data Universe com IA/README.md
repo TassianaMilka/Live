@@ -96,25 +96,25 @@ El 04 de Julio del año 2024.
 
 # Los puntos principales
 
-1. Inteligencia artificial;
+1.Inteligencia artificial;
 
-2. Aviso;
+2.Aviso;
 
-3. Flujo de automatización;
+3.Flujo de automatización;
 
 4.AI utilizar la formación;
 
-5. Ética;
+5.Ética;
 
-6. ESG;
+6.ESG;
 
 7.AI en el Mercado Digital;
 
-8. Matemáticas de la estadística y la probabilidad;
+8.Matemáticas de la estadística y la probabilidad;
 
-9. Innovación en creatividad;
+9.Innovación en creatividad;
 
-10. Seguridad, privacidad y protección de datos.
+10.Seguridad, privacidad y protección de datos.
 
 # Mi opinión sobre los contextos
 
