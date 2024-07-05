@@ -119,5 +119,5 @@ El 04 de Julio del año 2024.
 
 # Mi opinión sobre los contextos
 
-<P>Fue una experiencia de aprendizaje para entender más sobre la Inteligencia Artificial con profesionales del área desde uso en redes sociales de publicación, gestión del tiempo, organización, ética en uso, importancia para agronegocio, mercado digital en la facilidad de crecimiento y reconocimiento, matemáticas de lo más profundo para la IA, innovación de posibilidad para todos y accesibilidad, diferencia de privacidad y protección de bases de datos algo muy utilizado.</P>
-# 
+<P>Fue una experiencia de aprendizaje para entender más sobre la Inteligencia Artificial con profesionales del área desde uso en redes sociales de publicación, gestión del tiempo, organización, ética en uso, importancia para agronegocio, mercado digital en la facilidad de crecimiento y reconocimiento, matemáticas de lo más profundo para la IA, innovación de posibilidad para todos y accesibilidad, diferencia de privacidad y protección de bases de datos algo muy utilizado.Para mi entender los factores y hacer reflexionar sobre mucho que podemos aprender cada vez más de manera constructiva nos hace darnos cuenta de que  uso de la ciberseguridad es muy útil, pero no se puede querer que resuelva un caso penal por otro lado se puede utilizar como base para trabajo.</P>
+
