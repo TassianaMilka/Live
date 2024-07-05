@@ -50,7 +50,7 @@ What was the day or days?
 
 # My opinion about contexts
 
-
+<p>The professionals addressed in their speeches about the beginning of robotics a trajectory of innovation for the present day in the facility, demonstrated several models of robots that exist around the world and how this can impact the lives of humans. I know almost nothing about technology, but I am a supporter of robotics to help everyone life, which was an opening to a new beginning in live as health, cars, business and agriculture, but I don't agree with robots.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
