@@ -71,5 +71,13 @@ El 04 de Julio del año 2024.
 
 # Los puntos principales
 
+1.Robótica;
+
+2.Fundamentos;
+
+3.Desafío;
+
+4.Practica.
+
 
 # Mi opinión sobre los contextos
