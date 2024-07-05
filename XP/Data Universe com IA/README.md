@@ -70,6 +70,12 @@ What was the day or days?
 
 10.Data security, privacy and protection.
 
+
+# My opinion about contexts
+
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl
