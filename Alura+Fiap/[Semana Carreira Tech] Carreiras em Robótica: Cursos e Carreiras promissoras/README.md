@@ -10,6 +10,7 @@ Qual foi o dia ou dias?
 04 de Julho em 2024.
 
 # Os principais pontos
+
 1.Robótica;
 
 2.Fundamentos;
