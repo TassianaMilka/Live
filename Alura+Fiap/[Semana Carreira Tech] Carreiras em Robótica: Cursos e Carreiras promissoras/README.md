@@ -81,3 +81,5 @@ El 04 de Julio del año 2024.
 
 
 # Mi opinión sobre los contextos
+
+<p>Los profesionales abordaron en sus ponencias sobre los inicios la robótica una trayectoria de innovación para actualidad en la instalación, demostraron varios modelos de robots que existen en todo el mundo y cómo esto puede impactar en la vida de los humanos. No sé casi nada de tecnología, pero soy partidario de que robótica ayude a la vida de todos, lo que fue una apertura para un nuevo comienzo para vivir como salud, coches,  negocios y agricultura, </p>
