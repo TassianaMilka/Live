@@ -16,11 +16,11 @@ Qual foi o dia ou dias?
 
 3.Desafio;
 
-4. 
+4.Prática. 
 
 # Minha opinião sobre o contexto
 
-
+<p>Os profissionais abordaram em suas falas </p>
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English
