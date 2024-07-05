@@ -1,6 +1,8 @@
 
 # Português 
 
+# Data Universe com IA
+
 O nome do canal que participou?
 
 Participei pela XP.
@@ -39,6 +41,8 @@ Qual foi o dia ou dias?
 --------------------------------------------------------------------------------------------------------------------------------
 
 #  English 
+
+# 
 
 The name of the channel you participated in?
 
@@ -80,7 +84,9 @@ What was the day or days?
 
 # Espanõl
 
-# ¿El nombre del canal en el que participaste?
+# 
+
+¿El nombre del canal en el que participaste?
 
 Participé por XP.
 
