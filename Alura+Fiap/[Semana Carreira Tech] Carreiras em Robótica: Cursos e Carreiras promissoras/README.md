@@ -40,6 +40,13 @@ What was the day or days?
 
 # The main points
 
+1.Robotics;
+
+2.Fundamentals;
+
+3.Challenge;
+
+4.Practice.
 
 # My opinion about contexts
 
