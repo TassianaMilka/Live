@@ -21,7 +21,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Os profissionais abordaram em suas falas sobre o começo da robótica de uma trajetória de inovação para os  dias atuais  da facilidade, demonstraram vários modelos de robôs que existem pelo mundo todo e como isso pode impactar na vida dos humanos. Diante  contenho uma reflexão é assunto que conheço quase nada na tecnologia,porém    </p>
+<p>Os profissionais abordaram em suas falas sobre o começo da robótica de uma trajetória de inovação para os  dias atuais  da facilidade, demonstraram vários modelos de robôs que existem pelo mundo todo e como isso pode impactar na vida dos humanos. Diante  contenho uma reflexão é assunto que conheço quase nada na tecnologia,porém sou apoiadora da robótica na auxiliação na vida de todos que foi  uma abertura de recomeço para viver    </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
