@@ -12,6 +12,11 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
+1.Cibersegurança;
+
+2. Ataque;
+
+3. Defesa.
 
 # Minha opinião 
 
