@@ -72,7 +72,9 @@ El 05 de Julio del año 2024.
 3.Gestión que se interconecta con la ciberseguridad.
 
 
-# 
+# Mi opinión sobre los contextos
+
+
 
 
 
