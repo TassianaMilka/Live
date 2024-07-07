@@ -27,8 +27,36 @@ Qual foi o dia ou dias?
 # English 
 
 
+# [Tech Career Week] Careers in 
+
+The name of the channel you participated in?
+
+I participated for Alura+Fiap.
+
+What was the day or days?
+
+05 the July in 2024.
+
+# The main points
+
+
+<p>  </p>
+
 
 # Espanõl 
+
+
+[Semana de la Carrera Tech ] Carreras en 
+
+¿El nombre del canal en el que participaste?
+
+Participé por Alura+Fiap.
+
+¿Cuál fue el día o los días?
+
+El 05 de Julio del año 2024.
+
+# Los puntos principales
 
 
 
