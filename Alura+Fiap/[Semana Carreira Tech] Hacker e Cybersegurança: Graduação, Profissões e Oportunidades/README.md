@@ -14,7 +14,7 @@ Qual foi o dia ou dias?
 
 1.Ataque;
 
-2.Deesa;
+2.Defesa;
 
 3.Gestão que interliga com cibersegurança.
 
