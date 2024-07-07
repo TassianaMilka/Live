@@ -1,6 +1,6 @@
 # Português
 
-# [Semana Carreira Tech] Carreiras em Robótica: Cursos e Carreiras promissoras
+# [Semana Carreira Tech]  Hacker e Cybersegurança: Graduação, Profissões e Oportunidades
 
 O nome do canal que participou?
 
