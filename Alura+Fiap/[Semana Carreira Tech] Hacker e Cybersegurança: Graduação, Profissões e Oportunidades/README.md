@@ -53,7 +53,7 @@ What was the day or days?
 
 # Espanõl 
 
-[Semana de la Carrera Tech ] Hacker y Ciberseguridad: Grado, Profesiones y Oportunidades
+# [Semana de la Carrera Tech ] Hacker y Ciberseguridad: Grado, Profesiones y Oportunidades
 
 ¿El nombre del canal en el que participaste?
 
