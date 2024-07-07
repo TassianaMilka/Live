@@ -39,6 +39,11 @@ What was the day or days?
 
 # The main points
 
+1. Attack;
+
+2. Defense;
+
+3. Management that interconnects with cybersecurity.
 
 <p>  </p>
 
