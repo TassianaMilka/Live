@@ -45,7 +45,7 @@ What was the day or days?
 
 3. Management that interconnects with cybersecurity.
 
-<p>  </p>
+<p>The professionals described in  speaking how cybersecurity is sometimes seen in a negative way in the news without knowing how to differentiate what is good and bad, social engineering, various forms within cybersecurity and ethics. We must be careful nowadays the ease is greater due to the lack of professionals and protection since encryption, more proposed laws in question of the operating systems of use  </p>
 
 
 # Espanõl 
