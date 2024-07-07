@@ -74,7 +74,7 @@ El 05 de Julio del año 2024.
 
 # Mi opinión sobre los contextos
 
-
+<p>Los profesionales describieron en sus intervenciones cómo la ciberseguridad a veces se ve de manera negativa en las noticias sin saber diferenciar lo que es bueno y malo,  ingeniería social, diversas formas dentro de ciberseguridad y  ética. Por lo tanto debemos tener cuidado hoy en día la facilidad es mayor debido a falta de profesionales y protección ya que el cifrado, la mayoría de las leyes propuestas en cuestión de los sistemas operativos de uso muchos usuarios no contienen   </p>
 
 
 
