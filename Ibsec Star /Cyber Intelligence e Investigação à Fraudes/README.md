@@ -11,6 +11,16 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
+1.Ataques;
+
+2.Ferramentas;
+
+3.Busca;
+
+4.Descobertas;
+
+5.Realização como profissional ético.
+
 
 # Minha opinião sobre o contexto
 
