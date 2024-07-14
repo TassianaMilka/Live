@@ -5,7 +5,7 @@
 
 O nome do canal que participou?
 
-Participei pela Ibsec Star.
+Participei pelo Canal_da_Cloud.
 
 Qual foi o dia ou dias?
 
