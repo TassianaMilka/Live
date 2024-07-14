@@ -55,7 +55,8 @@ What was the day or days?
 
 5.Fulfillment as an ethical professional.
 
-#  
+
+#  My opinition about the context 
 
 
 <p>The professional argued about how the attacks that victims suffer work and solve this incorrect situation before the  can generate damage in someone's life. In the need to use tools to investigate fraud, but there may be times when it is not easy to do so, it is useful to use the knowledge acquired.When we refer an investigation it involves several factors that need understand who is opposed to the invasion, using the law guideline as much as it is often difficult now days, because many of them are not applied in a dignified, correct and ethical, in the usefulness of a good tool is important for the work and trust when carrying out the professionalism that at times has more than one data in the discovery.</p>
