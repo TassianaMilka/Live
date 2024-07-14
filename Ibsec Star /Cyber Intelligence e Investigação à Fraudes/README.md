@@ -78,16 +78,16 @@ El 10 de Julio del año 2024.
 
 # Los puntos principales
 
-1.Dirección sin archivos;
+1.Ataques;
 
-2.Vulnerabilidad;
+2.Herramientas;
 
-3.Link;
+3.Busca;
 
-4.Documentos;
+4.Descubrimientos;
 
-5.Herramientas.
+5.Realización como profesional ético.
 
 # Mi opinión sobre los contextos
 
-<p> </p>
+<p> VBNVN </p>
