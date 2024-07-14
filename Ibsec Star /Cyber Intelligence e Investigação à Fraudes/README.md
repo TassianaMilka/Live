@@ -90,4 +90,6 @@ El 10 de Julio del año 2024.
 
 # Mi opinión sobre los contextos
 
-<p>El profesional argumentó sobre cómo funcionan los ataques que sufren las víctima y resuelven esta situación incorrecta antes de que puedan generar daños en la vida de alguien. En la necesidad de utilizar herramientas para investigar fraudes, pero puede haber ocasiones en las que no sea fácil hacerlo, es útil utilizar los conocimientos adquiridos. </p>
+<p>El profesional argumentó sobre cómo funcionan los ataques que sufren las víctima y resuelven esta situación incorrecta antes de que puedan generar daños en la vida de alguien. En la necesidad de utilizar herramientas para investigar fraudes, pero puede haber ocasiones en las que no sea fácil hacerlo, es útil utilizar los conocimientos adquiridos.Cuando referimos una investigación intervienen varios factores que necesitamos entender quién se opone a la invasión, utilizando la pauta de ley  que muchas veces sea difícil hoy en día, porque muchos de ellos no se aplican de una manera digna, correcta y ética, en la utilidad de una buena herramienta es importante para el trabajo y la confianza a la hora de llevar a cabo el profesionalismo que en ocasiones tiene más de un dato en  descubrimiento.</p>
+
+
