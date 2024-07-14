@@ -44,6 +44,14 @@ What was the day or days?
 
 # The main points
 
+1. Attacks;
 
+2. Tools;
 
-# 
+3. Search;
+
+4. Discoveries;
+
+5. Fulfillment as an ethical professional.
+
+#  
