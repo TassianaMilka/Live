@@ -90,4 +90,4 @@ El 10 de Julio del año 2024.
 
 # Mi opinión sobre los contextos
 
-<p> VBNVN </p>
+<p>El profesional argumentó sobre cómo funcionan los ataques que sufren las víctima y resuelven esta situación incorrecta antes de que puedan generar daños en la vida de alguien. En la necesidad de utilizar herramientas para investigar fraudes, pero puede haber ocasiones en las que no sea fácil hacerlo, es útil utilizar los conocimientos adquiridos. </p>
