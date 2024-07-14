@@ -14,4 +14,4 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>O profisional argumetava sobre como funciona os ataques que vítimas  sofrem de como resolver essa situação incorreta diante da lei e que pode gerar prejuízos na vida de alguém.Na necessidade </p>
+<p>O profisional argumetava sobre como funciona os ataques que vítimas  sofrem de como resolver essa situação incorreta diante da lei e que pode gerar prejuízos na vida de alguém.Na necessidade de utilizar ferramentas para investigar o fraude,porém pode acontecer monmentos que é não contém uma facilidade é útil usar o próprio conhecimento adquirido.</p>
