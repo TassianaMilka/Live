@@ -1,3 +1,6 @@
+
+15/07
+
 # Português
 
 # Desvendando o Microsoft XDR e Copilot for Security
