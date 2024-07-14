@@ -56,4 +56,7 @@ What was the day or days?
 5.Fulfillment as an ethical professional.
 
 #  
+
+
+<p>The professional argued about how the attacks that victims suffer work and solve this incorrect situation before the  can generate damage in someone's life. In the need to use tools to investigate fraud, but there may be times when it is not easy to do so, it is useful to use the knowledge acquired.</p>
 --------------------------------------------------------------------------------------------------------------------------------
