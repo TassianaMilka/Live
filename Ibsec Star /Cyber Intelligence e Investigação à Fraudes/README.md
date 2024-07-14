@@ -32,7 +32,7 @@ Qual foi o dia ou dias?
 
 # English
 
-# Fileless Malware Detention Cyber Defense
+# 
 
 The name of the channel you participated in?
 
