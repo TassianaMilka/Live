@@ -23,6 +23,6 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Argumentavam em suas falas os profissionais sobre a importância de compreender cada elemento  de uma ferramenta destinada para segurança do sistema operacional,ou seja,tudo o que recebe de mensagem email ou ação na finalidade detectar mal intenções,vírus e invvasão pelo Microsft Defenser.</p>
+<p>Argumentavam em suas falas os profissionais sobre a importância de compreender cada elemento  de uma ferramenta destinada para segurança do sistema operacional,ou seja,tudo o que recebe de mensagem via email ou ação na finalidade detectar mal intenções,vírus e invasão pelo Microsft Defenser.Para mim é interessante  ainda mais contém  IA para auxilair     . </p>
 
 
