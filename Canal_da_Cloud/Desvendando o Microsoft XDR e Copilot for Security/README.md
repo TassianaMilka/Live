@@ -16,8 +16,10 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
+1.Compreender;
 
+2. 
 
 # Minha opinião sobre o contexto
 
-<p>Argumentavam em suas falas sobre os profissionais sobre ...  </p>
+<p>Argumentavam em suas falas os profissionais sobre a importância de compreender cada elemento sobre uma ferramenta,  </p>
