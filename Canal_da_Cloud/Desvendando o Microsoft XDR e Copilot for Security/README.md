@@ -17,8 +17,12 @@ Qual foi o dia ou dias?
 
 1.Compreender;
 
-2. 
+2.Webiste;
+
+3.Função dentro do Microsoft Defender.
 
 # Minha opinião sobre o contexto
 
-<p>Argumentavam em suas falas os profissionais sobre a importância de compreender cada elemento sobre uma ferramenta,  </p>
+<p>Argumentavam em suas falas os profissionais sobre a importância de compreender cada elemento  de uma ferramenta destinada para segurança do sistema operacional,ou seja,tudo o que recebe de mensagem email ou ação na finalidade detectar mal intenções,vírus e invvasão pelo Microsft Defenser.</p>
+
+
