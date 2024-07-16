@@ -74,6 +74,10 @@ El 10 de Julio del año 2024.
 
 3.Rol dentro de Microsoft Defender.
 
-# 
+#  Mi opinión sobre el contexto
 
-<p>En sus intervenciones los profesionales argumentaron sobre la importancia de entender cada elemento de una herramienta destinada a seguridad del sistema operativo, es decir, todo lo que recibe de un mensaje vía correo electrónico o acción con el fin de detectar malas intenciones, virus e invasión por parte del Microsft Defenser.</p>
+<p>En sus intervenciones los profesionales argumentaron sobre la importancia de entender cada elemento de una herramienta destinada a seguridad del sistema operativo, es decir, todo lo que recibe de un mensaje vía correo electrónico o acción con el fin de detectar malas intenciones, virus e invasión por parte del Microsft Defenser.Para mi es interesante, más aún que contiene IA para ayudar en la forma resumida, pero por otro lado, las personas se ponen a concluir, tienen formas de descubrir que a menudo la herramienta en sí misma no puede entender.Algo muy útil que ayuda a todo el mundo a mantenerse  en seguridad, creo que actualmente es uno de los pocos más éticos.</p>
+
+
+
+
