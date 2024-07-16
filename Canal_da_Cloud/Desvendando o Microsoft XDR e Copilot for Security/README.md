@@ -40,6 +40,6 @@ What was the day or days?
 # The main points
 
 # 
-
+<p>In their speeches the professionals argued about  importance of understanding each element of a tool intended for security of the operating system, that is, everything that receives from a message via email or action in order to detect bad intentions, viruses and invasion by the Microsft Defenser. </p>
 --------------------------------------------------------------------------------------------------------------------------------
 
