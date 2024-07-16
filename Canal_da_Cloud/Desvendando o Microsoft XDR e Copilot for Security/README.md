@@ -39,7 +39,7 @@ What was the day or days?
 
 # The main points
 
-# 
-<p>In their speeches the professionals argued about  importance of understanding each element of a tool intended for security of the operating system, that is, everything that receives from a message via email or action in order to detect bad intentions, viruses and invasion by the Microsft Defenser.To me it interesting, even more so that it contains AI to assist in the summarized form, but on the other hand, individuals set to conclude, they have ways of discovering that often the tool itself cannot understand. </p>
+# My opinition 
+<p>In their speeches the professionals argued about  importance of understanding each element of a tool intended for security of the operating system, that is, everything that receives from a message via email or action in order to detect bad intentions, viruses and invasion by the Microsft Defenser.To me it interesting, even more so that it contains AI to assist in the summarized form, but on the other hand, individuals set to conclude, they have ways of discovering that often the tool itself cannot understand.Something very useful that helps everyone keep more established in safety I believe it is currently one of the few more ethical. It doesn't depend only on Microsoft Defeder, but on other technological environments.</p>
 --------------------------------------------------------------------------------------------------------------------------------
 
