@@ -56,9 +56,14 @@ What was the day or days?
 # Espanõl 
 
 # Desentrañar Microsoft XDR y Copilot para la seguridad
-
+cvhcvhcvhvchcvhvchchcvhcvhhhhhhhhhhhhhhhhhhhhhhhvvvvvvbbb
 # Los principales puentos
 
+1.Comprender;
+
+2.Sitio web;
+
+3.Rol dentro de Microsoft Defender.
 
 # 
 
