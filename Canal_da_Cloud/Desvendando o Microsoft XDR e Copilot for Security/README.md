@@ -29,6 +29,8 @@ Qual foi o dia ou dias?
 
 # English
 
+# Unraveling Microsoft XDR and Copilot for Security
+
 The name of the channel you participated in?
 
 I participated for Canal_da_Cloud.
