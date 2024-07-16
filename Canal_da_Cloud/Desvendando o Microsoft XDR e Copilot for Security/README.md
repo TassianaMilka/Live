@@ -56,7 +56,16 @@ What was the day or days?
 # Espanõl 
 
 # Desentrañar Microsoft XDR y Copilot para la seguridad
-cvhcvhcvhvchcvhvchchcvhcvhhhhhhhhhhhhhhhhhhhhhhhvvvvvvbbb
+
+¿El nombre del canal en el que participaste?
+
+Participé por Ibsec Star.
+
+¿Cuál fue el día o los días?
+
+El 10 de Julio del año 2024.
+
+
 # Los principales puentos
 
 1.Comprender;
