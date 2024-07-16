@@ -66,7 +66,7 @@ Participé por Ibsec Star.
 El 10 de Julio del año 2024.
 
 
-# Los principales puentos
+# Los puntos principales
 
 1.Comprender;
 
