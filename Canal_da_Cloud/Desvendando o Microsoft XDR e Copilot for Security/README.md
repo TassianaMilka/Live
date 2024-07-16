@@ -76,3 +76,4 @@ El 10 de Julio del año 2024.
 
 # 
 
+<p>En sus intervenciones los profesionales argumentaron sobre la importancia de entender cada elemento de una herramienta destinada a seguridad del sistema operativo, es decir, todo lo que recibe de un mensaje vía correo electrónico o acción con el fin de detectar malas intenciones, virus e invasión por parte del Microsft Defenser.</p>
