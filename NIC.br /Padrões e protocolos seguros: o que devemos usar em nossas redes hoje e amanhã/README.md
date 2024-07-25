@@ -40,6 +40,13 @@ June 25 and 26 the 2024.
 
 # The main points
 
+1.Encryption;
+
+2.Security;
+
+3.Ram;
+
+4.Opinions.
 
 # My opinion about contexts
 
