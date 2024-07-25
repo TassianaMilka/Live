@@ -29,7 +29,8 @@ Em 17 de Julho do ano 2024.
 
 # English
 
-# 
+# Secure standards and protocols: what we should use on our networks today and tomorrow
+
 The name of the channel you participated in?
 
 I participated for NIC.br.
