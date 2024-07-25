@@ -67,7 +67,15 @@ El 17 de julio del año 2024.
 
 # Los puntos principales
 
+1.Cifrado;
+
+2.Seguridad;
+
+3.Ariete;
+
+4.Opiniones.
 
 # Mi opinión sobre los contextos
 
+<p></p>
 
