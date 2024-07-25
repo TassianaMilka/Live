@@ -17,5 +17,5 @@ Em 4 de Junho do ano 2024.
 
 # Minha opinião sobre o contexto
 
-<p>Os profissionais abordava cada um forma de conectarem entre  a matemática e criptografia da segurança cada um trouxe sua forma de pensamento de interligação e  como pode a segurança da internet em questão a </p>
+<p>Os profissionais abordava cada um forma de conectarem entre  a matemática e criptografia da segurança cada um  de pensamento que interligação e  como pode a segurança da internet em questão a inovação do mercado.Acredito que a internet  é caminho de portas novas,porém infelizmente naõ estamos protegido acabe cada um compreender  a importância da cibersegurança e segurança  da informação para aprimoriar mais na finalidade de utilização.</p>
 
