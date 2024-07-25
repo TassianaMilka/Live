@@ -17,5 +17,5 @@ Em 4 de Junho do ano 2024.
 
 # Minha opinião sobre o contexto
 
-<p> </p>
+<p>Os profissionais abordava cada um forma de conectarem entre  a matemática e criptografia da segurança cada um trouxe sua forma de pensamento de interligação e  como pode a segurança da internet em questão a </p>
 
