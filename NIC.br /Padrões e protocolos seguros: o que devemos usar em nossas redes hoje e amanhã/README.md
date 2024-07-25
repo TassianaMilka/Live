@@ -9,7 +9,7 @@ Participei pelo NIC.br.
 
 Qual foi o dia ou dias?
 
-Em 4 de Junho do ano 2024.
+Em 17 de Julho do ano 2024.
 
 # Os principais pontos
 
@@ -36,7 +36,7 @@ I participated for NIC.br.
 
 What was the day or days?
 
-June 25 and 26 the 2024.
+July 17 the 2024.
 
 # The main points
 
@@ -62,7 +62,7 @@ Participé por NIC.br.
 
 ¿Cuál fue el día o los días?
 
-El 25 y 26 de junio del año 2024.
+El 17 de julio del año 2024.
 
 # Los puntos principales
 
