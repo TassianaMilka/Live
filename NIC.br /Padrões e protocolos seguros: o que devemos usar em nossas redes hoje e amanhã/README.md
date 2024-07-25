@@ -50,7 +50,7 @@ July 17 the 2024.
 
 # My opinion about contexts
 
-<p>The professionals discussed how to connect mathematics and security cryptography the thought that interconnects and how the internet can affect market innovation.</p>
+<p>The professionals discussed how to connect mathematics and security cryptography the thought that interconnects and how the internet can affect market innovation.I believe that the internet is a path to new doors, but we are not protected, everyone must understand the importance of cyber security and information security to improve their specific use.</p>
 
 # Espanõl
 
