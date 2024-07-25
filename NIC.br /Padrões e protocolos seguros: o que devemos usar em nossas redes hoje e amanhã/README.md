@@ -13,6 +13,13 @@ Em 4 de Junho do ano 2024.
 
 # Os principais pontos
 
+1.Criptografia;
+
+2.Segurança;
+
+3.Ram;
+
+4.Opiniões.
 
 
 # Minha opinião sobre o contexto
