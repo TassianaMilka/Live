@@ -32,7 +32,7 @@ Em 4 de Junho do ano 2024.
 # 
 The name of the channel you participated in?
 
-I participated for Dio.
+I participated for NIC.br.
 
 What was the day or days?
 
@@ -58,7 +58,7 @@ June 25 and 26 the 2024.
 
 ¿El nombre del canal en el que participaste?
 
-Participé por Dio.
+Participé por NIC.br.
 
 ¿Cuál fue el día o los días?
 
