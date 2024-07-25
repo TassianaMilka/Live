@@ -26,3 +26,40 @@ Em 4 de Junho do ano 2024.
 
 <p>Os profissionais abordava  forma de conectarem entre  a matemática e criptografia da segurança cada pensamento que interligação e  como pode a  internet em questão da inovação do mercado.Acredito que a internet  é caminho de portas novas,porém infelizmente não estamos protegido acabe cada um compreender a importância da cibersegurança e segurança  da informação para aprimoriar mais na finalidade de utilização.</p>
 
+
+# English
+
+# 
+The name of the channel you participated in?
+
+I participated for Dio.
+
+What was the day or days?
+
+June 25 and 26 the 2024.
+
+# The main points
+
+
+# My opinion about contexts
+
+
+
+# Espanõl
+
+# 
+
+¿El nombre del canal en el que participaste?
+
+Participé por Dio.
+
+¿Cuál fue el día o los días?
+
+El 25 y 26 de junio del año 2024.
+
+# Los puntos principales
+
+
+# Mi opinión sobre los contextos
+
+
