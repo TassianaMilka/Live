@@ -77,5 +77,5 @@ El 17 de julio del año 2024.
 
 # Mi opinión sobre los contextos
 
-<p></p>
+<p>Los profesionales discutieron cómo conectar las matemáticas y la criptografía de seguridad con cada pensamiento que interconecta y cómo internet puede afectar la innovación del mercado.</p>
 
