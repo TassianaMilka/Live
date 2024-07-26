@@ -65,7 +65,7 @@ Participé por Dio.
 
 ¿Cuál fue el día o los días?
 
-El 25 y 26 de junio del año 2024.
+El 23 y 24 de junio del año 2024.
 
 
 # Los puntos principales
