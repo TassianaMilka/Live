@@ -56,7 +56,7 @@ June 23 and 24 the 2024.
 
 # Espanõl 
 
-# Born to be Global: de cero a primer dollar trabajando en tecnología
+# Born to be Global: Desbloquea el inglés para tu primera entrevista de trabajo internacional
 
 
 ¿El nombre del canal en el que participaste?
