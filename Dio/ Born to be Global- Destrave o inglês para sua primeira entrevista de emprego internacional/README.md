@@ -80,12 +80,9 @@ El 23 y 24 de junio del año 2024.
 #  Mi opinión sobre los contextos
 
 
-<p> </p>
-
+<p>Los profesionales discutieron formas de describir una entrevista simulada en inglés usando palabras clave destacadas y estando atentos los cambios durante el período que puedan ocurrir y la forma es ser uno mismo sin preocuparse demasiado por el acento, ya que gran parte del inglés no es  idioma original.  Para mí fue una experiencia de aprendizaje interesante para mejorar continuamente mi inglés en la comunicación formal.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
-
-
 
 
 # Linkedin
