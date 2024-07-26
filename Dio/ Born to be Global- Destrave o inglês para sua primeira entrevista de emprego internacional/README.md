@@ -32,7 +32,7 @@ Qual foi o dia ou dias?
 
 # English 
 
-#  Born to be Global:de cero a primer dólar trabajando en tecnología
+# 
 
  
 The name of the channel you participated in?
@@ -47,21 +47,10 @@ June 25 and 26 the 2024.
 # The main points
 
 
-1.A conversation with professionals who work abroad all of whom are Brazilians;
-
-2.Describing a little of your routines;
-
-3.The way they got the experience to work abroad;
-
-4.Analyzed some requirements during the hiring process;
-
-5.When they started working;
-
-6.Tips for an ideal resume for companies to contain interest;
 
 #   My opinion about contexts
 
-<p>For me it was an experience of new ways of learning more than I understood some requirements, but I got of innovation my curriculum and make a reflection of working abroad and living in Brazil and living for others with service.My analysis it contains disagreement about the amount of investment of the conversion of money is more profitable in South America as it is a poor 1% living in the country that is not your home and 4% dwelling in your territory.Another fact that is not negative, but a large part considers is about time zone, in this case each one must analyze their form of financial statistics and thinking.</p>
+<p> </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
