@@ -80,4 +80,9 @@ El 17 de julio del año 2024.
 <p>Los profesionales discutieron cómo conectar las matemáticas y la criptografía de seguridad con cada pensamiento que interconecta y cómo internet puede afectar la innovación del mercado.Creo que internet es un camino hacia nuevas puertas, pero lamentablemente no estamos protegidos, todos debemos entender la importancia de ciberseguridad y  seguridad de información para mejorar aún más el propósito de uso.</p>
 
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+# Linkedin 
+
+
 
