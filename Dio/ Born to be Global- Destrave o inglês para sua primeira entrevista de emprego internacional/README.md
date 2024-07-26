@@ -87,12 +87,8 @@ El 25 y 26 de junio del año 2024.
 
 1
 
-https://www.youtube.com/watch?v=NOshnB4bRiE
 
 2
-
-https://www.youtube.com/watch?v=Xn0P0wFcA5w
-
 
 
 
