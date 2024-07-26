@@ -17,7 +17,7 @@ Qual foi o dia ou dias?
 # Os principais pontos
 
 
-1.Tecnicas de como utilizar o inglês em uma entrevista;
+1.Técnicas de como utilizar o inglês em uma entrevista;
 
 2.Utilizar palavras-chaves;
 
