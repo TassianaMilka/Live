@@ -84,5 +84,5 @@ El 17 de julio del año 2024.
 
 # Linkedin 
 
-
+https://www.linkedin.com/in/tassiana-milka/details/certifications/
 
