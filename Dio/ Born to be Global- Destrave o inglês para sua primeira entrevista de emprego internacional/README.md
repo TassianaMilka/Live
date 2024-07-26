@@ -74,7 +74,11 @@ El 23 y 24 de junio del año 2024.
 
 # Los puntos principales
 
+1.Técnicas de uso del inglés en una entrevista;
 
+2.Utilice palabras clave;
+
+3.Preparado para preguntas.
 
 
 #  Mi opinión sobre los contextos
