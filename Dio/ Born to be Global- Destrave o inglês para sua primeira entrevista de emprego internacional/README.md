@@ -17,22 +17,16 @@ Qual foi o dia ou dias?
 # Os principais pontos
 
 
-1.Uma conversa com profissionais  que trabalham para o exterior sendo todos brasileiros(as);
+1.Tecnicas de como utilizar o inglês em uma entrevista;
 
-2.Descrevendo um pouco de suas rotinas;
+2.Utilizar palavras-chaves;
 
-3.A forma que  conseguiram a experiência para o trabalho no exterior;
-
-4.Analisaram alguns requisitos duante o processo contratação;
-
-5.Quando começaram a trabalhar;
-
-6.Dicas de um currículo ideal para que as empresas contenha interesse;
+3.Esteja preparados para perguntas;
 
 
 # Minha opinião sobre o contexto 
 
-<p>Para mim foi uma experiência  de novas formas de aprendizagem por mais que eu já compreendia alguns requisitos,mas obtive de inovar o meu currículo e fazer uma reflexão de trabalhar no exterior morando no Brasil e morar fora juntamento com serviço.Pelo meu análise contém diferença sobre a quantidade de investimento da  conversão do dinheiro é mais lucrativa na América do Sul como fosse uma pobrabilidade  de 1% morando no país que não é seu de origem e 4% morando em seu território de nascimento.Outro fato que não é negativo,porém uma grande parte considera é sobre fuso horário nesse caso cada um deve analisar sua forma de estatística financeira e pensamento.</p>
+<p> </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
