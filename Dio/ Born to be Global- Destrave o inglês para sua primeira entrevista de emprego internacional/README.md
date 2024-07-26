@@ -26,7 +26,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto 
 
-<p> </p>
+<p>Os profissionais abirdaram forma </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
