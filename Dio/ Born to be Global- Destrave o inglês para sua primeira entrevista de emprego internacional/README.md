@@ -54,7 +54,7 @@ June 23 and 24 the 2024.
 
 #   My opinion about contexts
 
-<p> </p>
+<p>The professionals discussed ways to describe a simulation of the interview in english using prominent keywords and keeping an eye on changes during the period that may and the way is to be yourself without worrying too much about the accent, as much of English is not it is the original language. For me it was an interesting learning experience to continually improve my english in formal communication. </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
