@@ -26,7 +26,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto 
 
-<p>Os profissionais abordaram forma </p>
+<p>Os profissionais abordaram formas para descrever uma simulação da entrevista em inglês      </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
