@@ -21,7 +21,7 @@ Qual foi o dia ou dias?
 
 2.Utilizar palavras-chaves;
 
-3.Esteja preparados para perguntas;
+3.Esteja preparados para perguntas.
 
 
 # Minha opinião sobre o contexto 
@@ -46,7 +46,11 @@ June 23 and 24 the 2024.
 
 # The main points
 
+1.Techniques on use English in an interview;
 
+2.Use keywords;
+
+3.Prepared for questions.
 
 #   My opinion about contexts
 
