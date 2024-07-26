@@ -26,7 +26,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto 
 
-<p>Os profissionais abordaram formas para descrever uma simulação da entrevista em inglês na utilização de palavras-chaves   </p>
+<p>Os profissionais abordaram formas para descrever uma simulação da entrevista em inglês na utilização de palavras-chaves de destaque e manter em atenção nas mudança durante o período que pode ocorrer e a forma é seja você mesmo sem preocupar muito com sotaque,pois muito o inglês não é o idioma de origem.Para mim foi um aprendizagem interessante de aprimoriar sempre mais o meu inglês diante a uma comunicação mais formal.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
