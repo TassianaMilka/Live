@@ -1,7 +1,7 @@
 
 # Português
 
-# Desvendando o Microsoft XDR e Copilot for Security
+# Java: Do legado ao AI - Como aproveitar o que foi desenvolvido, modernizar e criar o novo?
 
 
 O nome do canal que participou?
@@ -24,7 +24,7 @@ Qual foi o dia ou dias?
 
 # English
 
-# Unraveling Microsoft XDR and Copilot for Security
+# 
 
 The name of the channel you participated in?
 
@@ -46,7 +46,7 @@ What was the day or days?
 
 # Espanõl 
 
-# Desentrañar Microsoft XDR y Copilot para la seguridad
+# 
 
 ¿El nombre del canal en el que participaste?
 
