@@ -50,7 +50,7 @@ What was the day or days?
 
 ¿El nombre del canal en el que participaste?
 
-Participé por
+Participé por  Canal_da_Cloud.
 
 ¿Cuál fue el día o los días?
 
