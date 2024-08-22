@@ -51,7 +51,7 @@ What was the day or days?
 
 # Espanõl 
 
-# Java: del legado a la IA: ¿Cómo aprovechar lo desarrollado, modernizarlo y crear algo nuevo?
+# Java: Del legado a la IA: ¿Cómo aprovechar lo desarrollado, modernizarlo y crear algo nuevo?
 
 ¿El nombre del canal en el que participaste?
 
