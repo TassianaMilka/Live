@@ -16,7 +16,7 @@ Qual foi o dia ou dias?
 
 1.Linguagem de programação Java;
 
-2.IA(cInteligência Artifcial);
+2.IA(Inteligência Artifcial);
 
 
 # Minha opinião sobre o contexto
