@@ -14,11 +14,14 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
+1.Linguagem de programação Java;
+
+2.IA(cInteligência Artifcial);
 
 
 # Minha opinião sobre o contexto
 
-<p></p>
+<p>Os profissionais abordavam em suas argumentações os benefícios e a descorbeta de escolhas em diversos campos do mercado.Para isso descreveram suas trajetóriadesde de aprendizagem até o ambiente profissional que contém diferenças.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
