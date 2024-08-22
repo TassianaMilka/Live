@@ -16,7 +16,7 @@ Qual foi o dia ou dias?
 
 1.Linguagem de programação Java;
 
-2.IA(Inteligência Artifcial);
+2.IA(Inteligência Artifcial).
 
 
 # Minha opinião sobre o contexto
@@ -27,7 +27,7 @@ Qual foi o dia ou dias?
 
 # English
 
-# 
+# Java: From legacy to AI - How to take advantage of what has been developed, modernize and create something new?
 
 The name of the channel you participated in?
 
@@ -39,7 +39,9 @@ What was the day or days?
 
 # The main points
 
+1.Linguagem de programação Java;
 
+2.IA(Inteligência Artifcial).
 
 # My opinion about contexts
 
