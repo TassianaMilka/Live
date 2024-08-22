@@ -51,7 +51,7 @@ What was the day or days?
 
 # Espanõl 
 
-# 
+# Java: del legado a la IA: ¿Cómo aprovechar lo desarrollado, modernizarlo y crear algo nuevo?
 
 ¿El nombre del canal en el que participaste?
 
@@ -64,7 +64,9 @@ El 21 del Agosto año 2024.
 
 # Los puntos principales
 
+1.Lenguaje de programación Java;
 
+2.IA (Inteligencia Artificial).
 
 #  Mi opinión sobre el contexto
 
