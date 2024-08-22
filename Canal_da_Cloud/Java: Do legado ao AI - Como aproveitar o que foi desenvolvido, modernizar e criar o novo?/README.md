@@ -70,7 +70,7 @@ El 21 del Agosto año 2024.
 
 #  Mi opinión sobre el contexto
 
-<p>.</p>
+<p>En sus argumentos, los profesionales abordaron los beneficios y descubrimientos de las opciones en diferentes campos del mercado. Para ello describieron sus trayectorias desde aprendizaje hasta el entorno profesional que contiene diferencias. Para mí fue un tema interesante que involucraba la Programación Java. Lenguaje, que me apasiona desde hace muchos años y cuando nos referimos a la Orientación a Objetos y en realidad a mucha gente no le gusta, "les resulta difícil" y dicen que Python es más fácil, cosa que de hecho no lo clasifico. estar en mi lista Digamos que estoy más feliz con Java que Python. Muchos pueden considerar esta historia una locura, pero para aquellos que ya han escrito código en papel en el lenguaje sin un compilador e Internet demuestra lo bestfriend.</p>
 
 
 
