@@ -21,7 +21,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Os profissionais abordavam em suas argumentações os benefícios e a descorbertas de escolhas em diversos campos do mercado.Para isso descreveram suas trajetórias desde de aprendizagem até o ambiente profissional que contém diferenças.Para mim foi um assunto interessante que envolveu a Linguagem de Programação Java que sou apaixonada desde muitos anos e quando referimos em Orientação Objetos e na realidade  muitos não gosta "achando  difícil" e falando que o Python é mais fácil que na verdade eu não classifico para entrar em minha lista.Digamos sou mais feliz com o Java do que o Python.Muitos podem considerar como maluca nessa história,mas para quem já realizou código no papel na Linguagem sem compilador e internet monstra o quanto é bestfriend.</p>
+<p>Os profissionais abordavam em suas argumentações os benefícios e a descorbertas de escolhas em diversos campos do mercado.Para isso descreveram suas trajetórias desde de aprendizagem até o ambiente profissional que contém diferenças.Para mim foi um assunto interessante que envolveu a Linguagem de Programação Java que sou apaixonada desde muitos anos e quando referimos em Orientação a Objetos e na realidade  muitos não gosta "achando  difícil" e falando que o Python é mais fácil que na verdade eu não classifico para entrar em minha lista.Digamos sou mais feliz com o Java do que o Python.Muitos podem considerar como maluca nessa história,mas para quem já realizou código no papel na Linguagem sem compilador e internet monstra o quanto é bestfriend.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
@@ -45,7 +45,7 @@ What was the day or days?
 
 # My opinion about contexts
 
-<p> </p>
+<p>Their arguments, the professionals addressed the benefits and discoveries of choices in different fields of the market. To do this,  described their trajectories from learning to the professional environment that contains differences. For me it was an interesting subject that involved the Java Programming Language, which I am in love with it for many years and when we refer to Object Orientation and in reality many people don't like it, "finding it difficult" and saying that Python is easier, which in fact I don't rate it to be on my list. Let's say I'm happier with Java than Python. Many may consider this story crazy, but for those who have already written code on paper in the language without a compiler and the internet, it shows how much of a best friend.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
