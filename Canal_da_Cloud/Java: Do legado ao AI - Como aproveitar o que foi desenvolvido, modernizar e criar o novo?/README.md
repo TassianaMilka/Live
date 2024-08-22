@@ -21,7 +21,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Os profissionais abordavam em suas argumentações os benefícios e a descorbeta de escolhas em diversos campos do mercado.Para isso descreveram suas trajetóriadesde de aprendizagem até o ambiente profissional que contém diferenças.</p>
+<p>Os profissionais abordavam em suas argumentações os benefícios e a descorbeta de escolhas em diversos campos do mercado.Para isso descreveram suas trajetóriadesde de aprendizagem até o ambiente profissional que contém diferenças.Para mim foi um assunto interessante que envolveu a Linguagem de Programação Java que sou apaixonada desde muitos anos e quabndo referimos em Orientação Objeto  de metodos, </p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
