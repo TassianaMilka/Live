@@ -21,7 +21,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Os profissionais abordavam em suas argumentações os benefícios e a descorbertas de escolhas em diversos campos do mercado.Para isso descreveram suas trajetórias desde de aprendizagem até o ambiente profissional que contém diferenças.Para mim foi um assunto interessante que envolveu a Linguagem de Programação Java que sou apaixonada desde muitos anos e quando referimos em Orientação a Objetos e na realidade  muitos não gosta "achando  difícil" e falando que o Python é mais fácil que na verdade eu não classifico para entrar em minha lista.Digamos sou mais feliz com o Java do que o Python.Muitos podem considerar como maluca nessa história,mas para quem já realizou código no papel na Linguagem sem compilador e internet monstra o quanto é bestfriend.</p>
+<p>Os profissionais abordavam em suas argumentações os benefícios e a descorbertas de escolhas em diversos campos do mercado.Para isso descreveram suas trajetórias desde de aprendizagem até o ambiente profissional que contém diferenças.Para mim foi um assunto interessante que envolveu a Linguagem de Programação Java que sou apaixonada desde muitos anos e quando referimos em Orientação a Objetos e na realidade  muitos não gosta "achando  difícil" e falando que o Python é mais fácil que na verdade eu não classifico para entrar em minha lista.Digamos sou mais feliz com o Java do que o Python.Muitos podem considerar como maluca nessa história,mas para quem já realizou código no papel na Linguagem sem compilador e internet monstra o quanto é best friend.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
