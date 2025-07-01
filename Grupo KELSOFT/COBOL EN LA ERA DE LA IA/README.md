@@ -40,7 +40,7 @@ acredito sua necessidade no mercado  na interligação com vários departamentos
  
 The name of the channel you participated in?
 
-I participated for Dio.
+I participated for Grupo KELSOFT.
 
 What was the day or days?
 
@@ -70,11 +70,11 @@ June 26 the 2025.
 
 ¿El nombre del canal en el que participaste?
 
-Participé por Dio.
+Participé por Grupo KELSOFT.
 
 ¿Cuál fue el día o los días?
 
-El 25 y 26 de junio del año 2024.
+El  26 de junio del año 2025.
 
 
 # Los puntos principales
