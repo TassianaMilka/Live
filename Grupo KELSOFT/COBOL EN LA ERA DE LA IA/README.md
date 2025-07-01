@@ -11,7 +11,7 @@ Participei pelo Grupo KELSOFT.
 Qual foi o dia ou dias?
 
 
-01 de Julho do ano 2025.
+26 de Junho do ano 2025.
 
 
 # Os principais pontos
