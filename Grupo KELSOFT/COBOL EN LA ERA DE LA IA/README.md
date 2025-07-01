@@ -59,3 +59,34 @@ June 26 the 2025.
 <p>+ ggfjfjfjfjfj</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+# Espanõl 
+
+# 
+
+
+¿El nombre del canal en el que participaste?
+
+Participé por Dio.
+
+¿Cuál fue el día o los días?
+
+El 25 y 26 de junio del año 2024.
+
+
+# Los puntos principales
+
+1.
+
+
+#  Mi opinión sobre los contextos
+
+
+<p>.nvncxmxxmgxmgmgmrrrrrrrrrrrrrrrrrrrrrrrrrrrrr</p>
+
+
+
+
