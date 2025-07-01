@@ -1,6 +1,6 @@
 # Português
 
-# COBOL EN LA ERA DE LA IA
+# Cobol em era de IA 
 
 O nome do canal que participou?
 
