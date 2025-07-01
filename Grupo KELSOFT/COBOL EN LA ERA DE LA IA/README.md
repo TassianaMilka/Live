@@ -29,3 +29,33 @@ Qual foi o dia ou dias?
 
 <p>Abordado a vantagem da linguagem de programação Cobol no mercado mesmo que muitos atualmente não aprende ela pelo fato ser mais antiga,mas contém uma grande importância para o mercado profissional.Uma linguagem que
 acredito sua necessidade no mercado  na interligação com vários departamentos basta que mais gente possa conter o interesse de aprender e faço um convite é algo que venho aprimorando,não vou mentir estou amandao deste o começo de itens básicos.</p>
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+
+# English 
+
+#  The Cobol in with AI
+ 
+The name of the channel you participated in?
+
+I participated for Dio.
+
+What was the day or days?
+
+June 26 the 2025.
+
+
+# The main points
+
+
+1.
+
+
+
+#   My opinion about contexts
+
+<p>+ ggfjfjfjfjfj</p>
+
+--------------------------------------------------------------------------------------------------------------------------------
