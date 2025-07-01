@@ -24,4 +24,4 @@ Qual foi o dia ou dias?
 # Minha opinião sobre o contexto 
 
 
-<p>gngfjfjffj</p>
+<p>Abordado a vantagem da linguagem de programação Cobol no mercado mesmo que muitos atualmente não aprende ela pelo fato ser mais antigas,mas contém uma grande importancia para o mercado profissional.</p>
