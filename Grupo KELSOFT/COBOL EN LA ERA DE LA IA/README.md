@@ -17,8 +17,11 @@ Qual foi o dia ou dias?
 # Os principais pontos
 
 
-1.
+1.Flexibilidade;
 
+2.Adptação;
+
+3.Capacidade.
 
 
 # Minha opinião sobre o contexto 
