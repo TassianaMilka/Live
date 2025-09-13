@@ -60,7 +60,7 @@ Participé por  Empower.
 
 ¿Cuál fue el día o los días?
 
-El 02 de Agosto del año 2025.
+El 14 de Agosto del año 2025.
 
 #  Los puntos principales
 
