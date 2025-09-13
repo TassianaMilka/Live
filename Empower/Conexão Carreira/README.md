@@ -11,7 +11,7 @@ Participei pela Empower.
 
 Qual foi o dia ou dias?
 
-14 de Julho em 2024.
+14 de Agosto em 2024.
 
 # Os principais pontos
 
