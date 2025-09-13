@@ -11,7 +11,7 @@ Participei pela Empower.
 
 Qual foi o dia ou dias?
 
-02 de Julho em 2024.
+14 de Julho em 2024.
 
 # Os principais pontos
 
@@ -32,11 +32,11 @@ Qual foi o dia ou dias?
 
 The name of the channel you participated in?
 
-I participated for 
+I participated for Empower.
 
 What was the day or days?
 
-02 the August in 2025.
+14 the August in 2025.
 
 # The main points
 
@@ -56,7 +56,7 @@ What was the day or days?
 
 ¿El nombre del canal en el que participaste?
 
-Participé por  
+Participé por  Empower.
 
 ¿Cuál fue el día o los días?
 
