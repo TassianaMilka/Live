@@ -3,11 +3,11 @@
 
 # Português 
 
-# Defesa Cibernética Detenção de Malware Fileless
+# Conexão Carreira
 
 O nome do canal que participou?
 
-Participei pela Ibsec Star.
+Participei pela Empower.
 
 Qual foi o dia ou dias?
 
@@ -15,86 +15,61 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
-1.Fileless o sentido;
-
-2.Vulnertabilidade;
-
-3.Link;
-
-4.Documentos;
-
-5.Ferramentas.
+1.
 
 
 
 # Minha opinião sobre o contexto
 
-<p>Durante a explicação o profissional descreveu sobre o assunto das desvantagens para um usuário caso contenha no sistema operacional  e mesmo atualizado é difícil para isso 
-é necessário de  alguns recursos  de validar chave e tarefa,uma linguagem bastante usada é  o Java e tomar cuidado com certos documentos e macro que alguém envia.O que um comando powershell é capaz de fazer o cdm e algumas dicas como previnir.Diante a  todas argumentação na live eu obtive um conhecimento sobre macro que na verdade já desconfiava sobre,mas depois tenho a conclusão concreta.Acredito quem sofrer uma situação dessa forma é ruim por outro lado devemos tomar cuidado em nosso próprio acesso e quem realiza ação,ou seja,nem todos são humanos éticos no mundo virtual.</p>
+<p> </p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English 
 
-# Fileless Malware Detention Cyber Defense
+# 
 
 The name of the channel you participated in?
 
-I participated for Ibsec Star.
+I participated for 
 
 What was the day or days?
 
-02 the July in 2024.
+02 the August in 2025.
 
 # The main points
 
-1.Fileless direction;
-
-2.Vulnerability;
-
-3.Link;
-
-4.Documents;
-
-5.Tools.
+1. 
 
 
 # My opinion about contexts
 
-<p>During  explanation the professional described on the subject of disadvantages for a user if it contains in the operating system and even updated it is difficult for this it is necessary of some resources to validate key and task awidely used language is Java ,be careful with certain documents and macros that someone sends. What a powershell command is cdm capable of doing and some tips how to prevent it. In the face of all the arguments in the live I obtained a knowledge about macro which I actually suspected about, but then I have the concrete conclusion. I believe that those who suffer a situation in this way are bad on the other hand we must be careful in our own access and those who perform action, that is, not everyone is an ethical human in the virtual world.</p>
+<p> </p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl 
 
-# Detención de malware sin archivos Defensa cibernética
+# 
 
 ¿El nombre del canal en el que participaste?
 
-Participé por  Ibsec Star.
+Participé por  
 
 ¿Cuál fue el día o los días?
 
-El 02 de Julio del año 2024.
+El 02 de Agosto del año 2025.
 
 #  Los puntos principales
 
-1.Dirección sin archivos;
-
-2.Vulnerabilidad;
-
-3.Link;
-
-4.Documentos;
-
-5.Herramientas.
+1.
 
 
 # Mi opinión sobre los contextos
 
-<p>Durante explicación el profesional describió sobre tema de las desventajas para un usuario si contiene en el sistema operativo e incluso actualizado es difícil para esto es necesario de algunos recursos para validar la clave y la tarea de uso generalizado el lenguaje es Java tenga cuidado con ciertos documentos y macros que alguien envía. Qué es capaz de hacer un comando de PowerShell cdm y algunos consejos sobre cómo evitarlo. Frente a todos los argumentos en vivo obtuve un conocimiento sobre macro que en realidad ya sospechaba, pero luego tengo la conclusión concreta. Creo que quienes sufren una situación de esta manera ý malos por otro lado debemos tener cuidado en nuestro propio acceso y en de quienes realizan acciones es decir, no todo el mundo es un humano ético en el mundo virtual.</p>
+<p></p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
