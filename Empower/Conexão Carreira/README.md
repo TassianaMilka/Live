@@ -45,7 +45,7 @@ What was the day or days?
 
 # My opinion about contexts
 
-<p>During the week of live broadcasts the professionals discussed their professional thoughts and presented the company they worked for each for the purposes of their career paths. </p>
+<p>During the week of live broadcasts the professionals discussed their professional thoughts and presented the company they worked for each for the purposes of their career. </p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
