@@ -15,13 +15,13 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
-1.
+1. Conhecendo empresas.
 
 
 
 # Minha opinião sobre o contexto
 
-<p> </p>
+<p>Durante a semana de lives os profissionais abordaram seus pensamentos profissionais e apresentaram a empresa que trabalhavam de cada finalidade de setores.</p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
