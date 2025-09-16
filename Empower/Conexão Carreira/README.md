@@ -21,7 +21,7 @@ Qual foi o dia ou dias?
 
 # Minha opinião sobre o contexto
 
-<p>Durante a semana de lives os profissionais abordaram seus pensamentos profissionais e apresentaram a empresa que trabalhavam de cada finalidade de setores.</p>
+<p>Durante a semana de lives os profissionais abordaram seus pensamentos profissionais e apresentaram a empresa que trabalhavam de cada finalidade de setores das suas trajetórias cada uma diferente que outras.</p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
