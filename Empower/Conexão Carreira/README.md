@@ -15,20 +15,20 @@ Qual foi o dia ou dias?
 
 # Os principais pontos
 
-1. Conhecendo empresas.
+1. Empresas.
 
 
 
 # Minha opinião sobre o contexto
 
-<p>Durante a semana de lives os profissionais abordaram seus pensamentos profissionais e apresentaram a empresa que trabalhavam de cada finalidade de setores das suas trajetórias cada uma diferente que outras.</p>
+<p>Durante a semana de lives os profissionais abordaram seus pensamentos profissionais e apresentaram a empresa que trabalhavam de cada finalidade de setores das suas trajetórias.</p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # English 
 
-# 
+# Career Connection
 
 The name of the channel you participated in?
 
@@ -40,19 +40,19 @@ What was the day or days?
 
 # The main points
 
-1. 
+1.Company.
 
 
 # My opinion about contexts
 
-<p> </p>
+<p>During the week of live broadcasts the professionals discussed their professional thoughts and presented the company they worked for each for the purposes of their career paths. </p>
 
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 # Espanõl 
 
-# 
+# Conexión Carrera
 
 ¿El nombre del canal en el que participaste?
 
@@ -64,12 +64,12 @@ El 14 de Agosto del año 2025.
 
 #  Los puntos principales
 
-1.
+1.Empresa.
 
 
 # Mi opinión sobre los contextos
 
-<p></p>
+<p>Durante la semana de transmisiones en live los profesionales compartieron sus pensamientos profesionales y presentaron la empresa en la que trabajaban en cada una con un propósito diferente en los sectores de sus trayectorias.</p>
 
 --------------------------------------------------------------------------------------------------------------------------------
 
